@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#C271A4"              # Magenta pink (warna aksen / tombol)
+backgroundColor = "#1A132F"           # Dark violet (background utama)
+secondaryBackgroundColor = "#251842"  # Ungu gelap (sidebar/panel)
+textColor = "#F4F4F4"                 # Putih lembut (teks)
+font = "sans serif"
