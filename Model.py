@@ -48,24 +48,6 @@ def hitung_rfm(df_clean):
     return df_agg
 
 
-# 3. Clustering KMeans
-def lakukan_clustering(df_agg, n_clusters):
-    features = df_agg[['Frequency', 'Total_Transaksi', 'Recency', 'Avg_Transaction']]
-    scaler = StandardScaler()
-    X_scaled = scaler.fit_transform(features)
-
-    kmeans = KMeans(n_clusters=n_clusters, random_state=42, n_init=10)
-    df_agg['Cluster'] = kmeans.fit_predict(X_scaled)
-
-    centroids_scaled = kmeans.cluster_centers_
-    centroids = scaler.inverse_transform(centroids_scaled)
-
-    db_index = davies_bouldin_score(X_scaled, df_agg['Cluster'])
-    sil_score = silhouette_score(X_scaled, df_agg['Cluster'])
-
-    return df_agg, centroids, db_index, sil_score, scaler, X_scaled
-
-
 # 4. Evaluasi Elbow (range 1-10)
 def elbow_method(X_scaled, max_k=10):
     wcss = []
@@ -76,23 +58,7 @@ def elbow_method(X_scaled, max_k=10):
     return list(range(1, max_k + 1)), wcss
 
 
-# 5. Evaluasi DBI & Silhouette dalam tabel (multi K)
-def evaluasi_multi_k(X_scaled, k_range):
-    dbi_results, sil_results = [], []
-
-    for k in k_range:
-        model = KMeans(n_clusters=k, random_state=42, n_init=10)
-        labels = model.fit_predict(X_scaled)
-        dbi = davies_bouldin_score(X_scaled, labels)
-        sil = silhouette_score(X_scaled, labels)
-        dbi_results.append([k, dbi])
-        sil_results.append([k, sil])
-
-    return pd.DataFrame(dbi_results, columns=['Jumlah Cluster', 'Davies-Bouldin Index']), \
-           pd.DataFrame(sil_results, columns=['Jumlah Cluster', 'Silhouette Score'])
-
-
-# 6. Gabung ke data akhir + customer name
+# 5. Gabung ke data akhir + customer name
 def gabung_final(df_clean, df_clustered, df_customer=None):
     df_clean['Customer_id'] = df_clean['Customer_id'].astype(str)
     df_clustered['Customer_id'] = df_clustered['Customer_id'].astype(str)
@@ -107,7 +73,7 @@ def gabung_final(df_clean, df_clustered, df_customer=None):
     return df_final
 
 
-# 7. Rekomendasi produk per cluster
+# 6. Rekomendasi produk per cluster
 def rekomendasi_produk(df_final, simpan=True):
     rekom = (
         df_final

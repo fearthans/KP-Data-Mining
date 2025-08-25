@@ -1,0 +1,1480 @@
+Customer_id,Customer_name,Segment,Product_Name,Recency,Frequency,Total_Transaksi
+1578742,Testing Account,01-Champion,QuranTutor 1 Month,12,43,6146700
+1578742,Testing Account,01-Champion,QuranTutor Family 1 Month,12,43,6146700
+1578742,Testing Account,01-Champion,QuranTutor 6 Months,12,43,6146700
+1578742,Testing Account,01-Champion,QuranTutor 1 Year,12,43,6146700
+166916,john herizal,01-Champion,Qaraa PRO 1 Tahun,11,12,3600000
+67706,Fifa Hiola,02-Loyal Customers,Qaraa PRO 1 Tahun,122,7,2100000
+147,Moh Nor Huzein,02-Loyal Customers,Qaraa PRO 1 Tahun,91,10,3000000
+88,ELIT SOLEHA,02-Loyal Customers,Qaraa PRO 1 Bulan,126,7,350000
+73647,Winda,02-Loyal Customers,Qaraa PRO 1 Bulan,115,15,750000
+271675,Budi Riyanto,02-Loyal Customers,Qaraa PRO 1 Bulan,53,10,500000
+1518732,Ghiffari Bara,02-Loyal Customers,QuranTutor 1 Month,58,9,399869
+166911,Wahyu Suaib,02-Loyal Customers,Qaraa PRO 1 Bulan,111,7,350000
+1288589,muhammad zikry jasman,02-Loyal Customers,Qaraa PRO 6 Bulan,107,10,2190800
+1570728,Bima Anzalta,02-Loyal Customers,QuranTutor Family 1 Month,58,32,1916800
+1288589,muhammad zikry jasman,02-Loyal Customers,Paket Qara’a Family Flash Sale Akhir Bulan,107,10,2190800
+1483275,Naufal Agastya,02-Loyal Customers,1 Bulan Qara'a #JadiBerkah,135,7,350000
+1483275,Naufal Agastya,02-Loyal Customers,Qaraa PRO 1 Bulan,135,7,350000
+7,Bima Anzalta,02-Loyal Customers,Qaraa PRO 1 Bulan,107,8,400000
+492,Indasari,02-Loyal Customers,Qaraa PRO 1 Tahun,82,8,2400000
+1232371,cut melisa,02-Loyal Customers,Qaraa PRO 1 Bulan,45,8,400000
+1518732,Ghiffari Bara,02-Loyal Customers,QuranTutor 1 Year,58,9,399869
+1518732,Ghiffari Bara,02-Loyal Customers,QuranTutor Family 1 Year,58,9,399869
+1476109,Arko,02-Loyal Customers,Qaraa PRO 1 Tahun,179,12,1100000
+1090912,Suraya Maricar,02-Loyal Customers,Qara'a PRO 1 Bulan Spesial Ulang Tahun,170,10,695000
+1090912,Suraya Maricar,02-Loyal Customers,Upgrade Qara'a PRO 1 Tahun,170,10,695000
+1090912,Suraya Maricar,02-Loyal Customers,Qaraa PRO 1 Bulan,170,10,695000
+1579406,jauzil shafa khoirunisa,02-Loyal Customers,Qaraa PRO 1 Tahun,35,10,2940000
+1483275,Naufal Agastya,02-Loyal Customers,1 bulan Insya Allah #SemuaBisaNgaji,135,7,350000
+908711,Fa Izah,02-Loyal Customers,Qaraa PRO 1 Bulan,31,8,2150000
+908711,Fa Izah,02-Loyal Customers,Qaraa PRO 1 Tahun,31,8,2150000
+1579406,jauzil shafa khoirunisa,02-Loyal Customers,1 Tahun Qara'a PRO Flash Sale Mei,35,10,2940000
+1476109,Arko,02-Loyal Customers,Qaraa PRO 1 Bulan,179,12,1100000
+3556,+62881024484685,02-Loyal Customers,Qaraa PRO 1 Bulan,91,10,500000
+52344,Riki susanto,02-Loyal Customers,Qaraa PRO 1 Bulan,114,10,500000
+1476038,Rahma Kurnia Zulianingsih,02-Loyal Customers,Qaraa PRO 1 Bulan,179,7,350000
+1565701,Wapidah,03-Potential Loyalists,Qaraa PRO 1 Bulan,17,4,450000
+1577987,Syam,03-Potential Loyalists,Qaraa PRO 1 Tahun,44,3,900000
+73403,+628121899380,03-Potential Loyalists,Qaraa PRO 1 Bulan,13,3,150000
+1565701,Wapidah,03-Potential Loyalists,Qaraa PRO 1 Tahun,17,4,450000
+1580979,Resa ananta Putri,03-Potential Loyalists,Qaraa PRO 1 Bulan,22,3,150000
+1322709,Abdurrahim Salim,03-Potential Loyalists,Qaraa PRO 1 Bulan,34,3,150000
+1579179,Fitri Nuraini,03-Potential Loyalists,Qaraa PRO 1 Bulan,32,4,200000
+1480480,Fathir Miftah Rizqullah,03-Potential Loyalists,Qaraa PRO 1 Bulan,11,3,150000
+6828,Ridho Ponsel,03-Potential Loyalists,Qaraa PRO 1 Bulan,43,6,300000
+1573198,Dewiiii,03-Potential Loyalists,Paket 1 Bulan Muharram,4,3,75000
+7091,Khamim Fariyanto,03-Potential Loyalists,Qaraa PRO 1 Tahun,10,3,900000
+302,Cunia,03-Potential Loyalists,Qaraa PRO 1 Bulan,41,3,150000
+1499925,fajar ilham,03-Potential Loyalists,Qaraa PRO 1 Bulan,53,5,500000
+11445,Chrisryan,03-Potential Loyalists,Qaraa PRO 1 Bulan,39,5,250000
+1499925,fajar ilham,03-Potential Loyalists,Qaraa PRO 1 Tahun,53,5,500000
+8207,+6281294490896,03-Potential Loyalists,Qaraa PRO 1 Bulan,46,4,200000
+1528331,Khryu,05-Need Attention,1 Tahun Qara'a #JadiBerkah,131,1,270000
+1520289,Syarif Official,05-Need Attention,Qaraa PRO 1 Tahun,136,1,300000
+1528962,Zakira,05-Need Attention,Qaraa PRO 1 Tahun,131,1,300000
+1518725,chandra amalia aris,05-Need Attention,1 Tahun Qara'a #JadiBerkah,136,1,270000
+1518650,Muhammad Mihran Hardi Husori,05-Need Attention,1 Tahun Qara'a #JadiBerkah,136,1,270000
+1527479,windu ningtyas,05-Need Attention,Qaraa PRO 1 Bulan,101,1,50000
+1527623,Almira,05-Need Attention,Qaraa PRO 1 Tahun,132,1,300000
+1518160,Upi Hambuku,05-Need Attention,Qaraa PRO 1 Tahun,126,1,300000
+1527712,Fadli 10,05-Need Attention,Qaraa PRO 1 Tahun,102,1,300000
+1528943,Cindera Jakawiguna,05-Need Attention,Qaraa PRO 1 Bulan,131,2,100000
+695196,Gilang Hadi labels,05-Need Attention,Qaraa PRO 1 Bulan,72,2,100000
+1527749,Romli Mustawa,05-Need Attention,Flash Sale Ramadhan 1 Bulan,124,1,45000
+1528443,Ashifa Basheer,05-Need Attention,Qaraa PRO 1 Bulan,131,1,50000
+1517379,Nadia Sarosa,05-Need Attention,Qaraa PRO Family 6 bulan,138,1,447000
+1527764,Mohamad Arga,05-Need Attention,Qaraa PRO 1 Tahun,111,2,600000
+1520464,Oslida Martony,05-Need Attention,6 Bulan Qara'a #JadiBerkah,136,1,150000
+1517183,Jon Masril,05-Need Attention,Qaraa PRO 1 Tahun,138,1,300000
+1517054,Intan NurJannah,05-Need Attention,Qaraa PRO 1 Bulan,117,3,150000
+1527851,dien,05-Need Attention,Qaraa PRO 1 Bulan,120,1,50000
+1516590,Basuki Lestariono,05-Need Attention,Qaraa PRO 1 Bulan,135,1,50000
+1528118,Nugraha Budikuncahya,05-Need Attention,Qaraa PRO 1 Bulan,130,1,50000
+1528222,Nur Azizah,05-Need Attention,Qaraa PRO 1 Bulan,119,1,50000
+1528224,Ruslianto,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1516357,annisa,05-Need Attention,Qaraa PRO 1 Tahun,137,1,300000
+1528798,Fitriadi,05-Need Attention,Qaraa PRO 1 Bulan,131,1,50000
+1517230,arfan hasip,05-Need Attention,Qaraa PRO 1 Bulan,138,1,50000
+1517194,Arsakhalif Saka,05-Need Attention,Qaraa PRO 6 Bulan,137,1,250000
+1524905,Putri Aisyah,05-Need Attention,Qaraa PRO 1 Bulan,134,1,50000
+1527477,Yudha Febri Rastuama,05-Need Attention,Qaraa PRO 1 Tahun,110,1,300000
+1524962,yumna,05-Need Attention,Qaraa PRO 1 Tahun,134,1,300000
+1524805,Nawaaya Nawaayaa,05-Need Attention,Qaraa PRO 1 Bulan,134,1,50000
+1524606,Irmayasari Harahap,05-Need Attention,Qaraa PRO 1 Tahun,134,1,300000
+1524574,Sulaiman,05-Need Attention,Qaraa PRO 1 Bulan,118,1,50000
+1525226,Vina khoirunisa,05-Need Attention,Qaraa PRO 1 Tahun,134,1,300000
+1524515,Cahya Yadi,05-Need Attention,Qaraa PRO 1 Bulan,133,2,100000
+1525261,henry nugroho,05-Need Attention,Qaraa PRO 1 Bulan,133,2,100000
+1524486,Farah Laisa,05-Need Attention,1 Tahun,134,1,200000
+1525706,Papa Jijul,05-Need Attention,Qaraa PRO 1 Tahun,133,1,300000
+1524345,MUHAMMAD YASIN RIZSKIAN,05-Need Attention,1 Tahun Qara'a #JadiBerkah,134,2,420000
+1524345,MUHAMMAD YASIN RIZSKIAN,05-Need Attention,6 Bulan Qara'a #JadiBerkah,134,2,420000
+1525802,Dicki Hermawanto,05-Need Attention,Qaraa PRO 1 Tahun,119,1,300000
+1526011,Fitria Pratami,05-Need Attention,Qaraa PRO 1 Bulan,119,1,50000
+1524834,siti yusfani,05-Need Attention,1 Tahun Qara'a #JadiBerkah,134,1,270000
+1524143,Teguh Sugirijoto,05-Need Attention,1 Tahun Qara'a #JadiBerkah,133,1,270000
+1526258,Meirda Maris Nur Rohmah,05-Need Attention,Qaraa PRO 1 Bulan,90,1,50000
+1526369,DEDY WAHYUDI,05-Need Attention,Qaraa PRO 1 Tahun,129,2,600000
+1526443,rizal tita,05-Need Attention,Qaraa PRO 1 Bulan,129,1,50000
+1526483,Nining Kendari,05-Need Attention,Qaraa PRO 1 Tahun,133,1,300000
+1523775,Kris Tiyanto,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1526605,Amira Oktavia,05-Need Attention,Qaraa PRO 1 Tahun,133,1,300000
+1526971,Ade Kustono,05-Need Attention,Qaraa PRO 1 Bulan,132,1,50000
+1527229,Haryanto 9306,05-Need Attention,Qaraa PRO 1 Tahun,120,1,300000
+1527370,Ningwar,05-Need Attention,Qaraa PRO 1 Tahun,129,1,300000
+683937,herlina octavia,05-Need Attention,Qaraa PRO 1 Tahun,66,1,300000
+1523275,ayu,05-Need Attention,Qaraa PRO 1 Bulan,128,1,50000
+1522700,Dwi Wahyu,05-Need Attention,Qaraa PRO 1 Tahun,135,1,300000
+1521679,Muhammad Ridwan,05-Need Attention,Qaraa PRO 1 Tahun,136,1,300000
+1523901,Yasinta,05-Need Attention,Qaraa PRO 1 Bulan,134,1,50000
+1529547,Irfina Afrilia,05-Need Attention,Qaraa PRO 1 Tahun,130,1,300000
+1509302,yeti hendrawati,05-Need Attention,1 Bulan Qara'a #JadiBerkah,140,1,50000
+1529801,Ghatan Alkuswa,05-Need Attention,Qaraa PRO 1 Tahun,130,1,300000
+1542300,Neng Risma Juliyanti,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1541376,Riya Jaka,05-Need Attention,Qaraa PRO 1 Tahun,122,1,300000
+1541098,Aisyah Aulia,05-Need Attention,Qaraa PRO 1 Tahun,96,1,300000
+1540882,Hazikri Jihaddin,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1540876,Annisa Syifa,05-Need Attention,Qaraa PRO 3 Bulan,122,1,100000
+1540865,Windi Fratiwi,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1540714,Refenia Usman,05-Need Attention,Qaraa PRO 1 Tahun,122,1,300000
+1540627,Putat Yanu Sungkono,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1540192,Randhi Pratama Putra,05-Need Attention,Qaraa PRO 1 Tahun,120,1,300000
+1540126,irwan fajar,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1540043,Arie Patmiyati,05-Need Attention,Qaraa PRO 1 Tahun,116,1,300000
+1539859,Gangsar Romadhon,05-Need Attention,Qaraa PRO 1 Bulan,122,2,350000
+1539859,Gangsar Romadhon,05-Need Attention,Qaraa PRO 1 Tahun,122,2,350000
+1539713,Risa Marissa,05-Need Attention,Qaraa PRO 1 Tahun,122,1,300000
+1538576,Eli Wijayanto,05-Need Attention,Flash Sale Ramadhan 1 Tahun,122,2,555000
+1542321,Alyssa A,05-Need Attention,Flash Sale Ramadhan 1 Bulan,122,1,45000
+1538576,Eli Wijayanto,05-Need Attention,Qaraa PRO 1 Tahun,122,2,555000
+1542628,Childan  Nabila,05-Need Attention,Qaraa PRO 1 Bulan,80,1,50000
+1542751,Mirza Azis,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1549402,Retni Riesna,05-Need Attention,Qaraa PRO 3 Bulan,113,1,100000
+1549139,MEILA NURISTA SARI,05-Need Attention,1 Tahun Qara'a Pro Flash Sale April,63,1,240000
+1548161,Daudy Albar,05-Need Attention,Flash Sale Ramadhan 1 Bulan,121,1,45000
+1547401,Ahsan Zaid,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+670541,Muhammad Adam,05-Need Attention,Qaraa PRO 1 Bulan,111,1,50000
+675713,Tia Agustia,05-Need Attention,Qaraa PRO 1 Bulan,113,3,150000
+1546084,Aysha Nadira  Wicaksono,05-Need Attention,Qaraa PRO 1 Tahun,122,1,300000
+1546082,nadita khairunnisa,05-Need Attention,Qaraa PRO 1 Bulan,122,2,100000
+1546065,Muhammad Nafisi,05-Need Attention,Qaraa PRO 1 Tahun,122,1,300000
+1545926,Ahmad Romli,05-Need Attention,Qaraa PRO 1 Tahun,122,1,300000
+1545494,nismara aina kikandrya,05-Need Attention,Qaraa PRO 1 Tahun,122,1,300000
+1545175,Karisa Syaputri,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1544710,dsy,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1543368,Yelo,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1543198,Putri EB,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1542741,tejo,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1529714,Misbah Abushofwan,05-Need Attention,Qaraa PRO 1 Bulan,130,1,50000
+1538505,Enricho Sony,05-Need Attention,Qaraa PRO 1 Bulan,124,1,50000
+1538095,Anwar Wahyudi,05-Need Attention,Flash Sale Ramadhan 6 Bulan,124,1,175000
+1532165,Optimus Prime,05-Need Attention,Qaraa PRO 1 Tahun,84,1,300000
+1531608,Abdillah Agam,05-Need Attention,Qaraa PRO 1 Bulan,128,1,50000
+1531361,vlog Mini vlog,05-Need Attention,Qaraa PRO 1 Tahun,128,1,300000
+1531330,shahfira,05-Need Attention,Flash Sale Ramadhan 1 Tahun,121,1,255000
+1531121,Nnn,05-Need Attention,Qaraa PRO 1 Bulan,121,1,50000
+1516185,Utek Kutek,05-Need Attention,Qaraa PRO 1 Bulan,136,1,50000
+1531090,Andi.intan Purnamasari,05-Need Attention,Qaraa PRO 1 Tahun,129,1,300000
+1531072,Sudar Mawan,05-Need Attention,Qaraa PRO 1 Tahun,129,1,300000
+1530998,Bima Anzalta,05-Need Attention,Qaraa PRO 1 Tahun,110,2,600000
+1530380,Fauzan,05-Need Attention,Qaraa PRO 1 Tahun,129,1,300000
+1530297,Nuriman Ibrahim,05-Need Attention,Qaraa PRO 1 Tahun,130,1,300000
+1530209,Sindy Aulia,05-Need Attention,Qaraa PRO 1 Tahun,130,1,300000
+1530085,AM FAUZY FADHILLAH TAHIR,05-Need Attention,Qaraa PRO 1 Tahun,130,1,300000
+1530069,Ake Siliwangi,05-Need Attention,Qaraa PRO 1 Bulan,109,2,100000
+1529818,Wuri,05-Need Attention,Qaraa PRO 3 Bulan,115,1,100000
+682304,Budi Setianjaya,05-Need Attention,Qaraa PRO 1 Bulan,153,1,50000
+1538421,Wa Irna,05-Need Attention,Qaraa PRO 1 Bulan,124,1,50000
+6823,Fadhil Mahdi,05-Need Attention,1 Tahun,169,1,200000
+680980,Agnasta,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1537250,Ainun Shanaz Ar.,05-Need Attention,Qaraa PRO 1 Bulan,116,1,50000
+1536758,Mardiansyah erli,05-Need Attention,Qaraa PRO 1 Bulan,125,1,50000
+1536662,Rusdy HI ABD Rachman,05-Need Attention,Qaraa PRO 3 Bulan,125,1,100000
+1536571,Richi Jrx,05-Need Attention,Qaraa PRO 1 Tahun,118,1,300000
+1536407,OKI Suryani,05-Need Attention,Qaraa PRO 1 Bulan,125,1,50000
+1536382,Izzati Robbi Hamiyya,05-Need Attention,Qaraa PRO 1 Tahun,125,1,300000
+1536305,Nasya Putri,05-Need Attention,Flash Sale Ramadhan 6 Bulan,122,1,175000
+1535663,enie purwandari,05-Need Attention,Qaraa PRO 1 Bulan,126,3,150000
+1535526,feri Frastiyo,05-Need Attention,Qaraa PRO 1 Tahun,126,1,300000
+1535056,rws store,05-Need Attention,Qaraa PRO 1 Bulan,116,1,50000
+1534979,Metro Cell,05-Need Attention,Qaraa PRO 1 Bulan,126,1,50000
+1533840,Rahmatullah,05-Need Attention,Flash Sale Ramadhan 1 Bulan,126,1,45000
+1533261,taqim coker,05-Need Attention,Qaraa PRO 1 Bulan,127,1,50000
+1533070,Erni m,05-Need Attention,Qaraa PRO 1 Bulan,127,1,50000
+1533061,Sovia Elisa,05-Need Attention,Qaraa PRO 1 Bulan,127,2,100000
+1532562,Derie Ningrum,05-Need Attention,Flash Sale Ramadhan 6 Bulan,120,1,175000
+1516039,Satria Pratama,05-Need Attention,Qaraa PRO 1 Tahun,139,1,300000
+1513550,Syamsuri,05-Need Attention,Qaraa PRO 1 Tahun,141,1,300000
+1515767,Yulian Akbari,05-Need Attention,Promo Ramadhan 6 Bulan Qara'a PRO,107,2,475000
+1504632,Putri annasa,05-Need Attention,1 Tahun Qara'a #JadiBerkah,140,1,270000
+1504215,Dinauryn,05-Need Attention,Qaraa PRO 1 Bulan,150,1,50000
+1504214,priyo adi saputro,05-Need Attention,Qaraa PRO 1 Bulan,150,2,100000
+1504135,Siti Nurpadilah,05-Need Attention,Qaraa PRO 1 Tahun,150,2,550000
+1504135,Siti Nurpadilah,05-Need Attention,Qaraa PRO 6 Bulan,150,2,550000
+1503871,Iswatun khasanah,05-Need Attention,Qara'a Flash Sale Lebaran 1 Bulan,85,1,40000
+1503755,Fitri khairul nisa,05-Need Attention,Qaraa PRO 1 Tahun,150,1,300000
+1503732,Ryan Ardiansyah,05-Need Attention,Qaraa PRO 1 Bulan,150,1,50000
+1503672,Aisyah Aqilah,05-Need Attention,Qaraa PRO 1 Tahun,150,2,350000
+1503672,Aisyah Aqilah,05-Need Attention,Qaraa PRO 1 Bulan,150,2,350000
+1503600,Alif Restu,05-Need Attention,Qaraa PRO 1 Bulan,143,1,50000
+1503469,Juanita Ummu Qila Cita,05-Need Attention,Qaraa PRO 1 Bulan,150,1,50000
+1503390,Ahmad Yani,05-Need Attention,Qaraa PRO 1 Bulan,150,1,50000
+716,Samsljtb,05-Need Attention,Qaraa PRO 1 Bulan,138,3,150000
+1503184,Aldi Wansah,05-Need Attention,Qaraa PRO 1 Tahun,147,3,900000
+1504675,Hafsah Azzahra Sayyaf,05-Need Attention,Qaraa PRO 1 Tahun,149,1,300000
+1503152,minn,05-Need Attention,Qaraa PRO 1 Tahun,145,1,300000
+1504697,Arkan Arkan,05-Need Attention,Qaraa PRO 1 Bulan,149,1,50000
+1504896,Al Qholifah Nugrahyanti,05-Need Attention,Flash Sale Ramadhan 1 Tahun,117,2,510000
+1507203,Muhammad Yurdani,05-Need Attention,Qaraa PRO 1 Tahun,146,1,300000
+704210,Dhani Akbar,05-Need Attention,1 tahun Insya Allah #SemuaBisaNgaji,157,1,270000
+1507120,Edy Pay2,05-Need Attention,Flash Sale Ramadhan 1 Tahun,121,1,255000
+1507101,Novia Ariyadi,05-Need Attention,Qaraa PRO 1 Tahun,147,1,300000
+1506769,siinnai putri,05-Need Attention,Qaraa PRO 1 Tahun,147,1,300000
+1506397,Aisyah Hwang,05-Need Attention,Qaraa PRO 1 Tahun,69,1,300000
+1506365,Alfiadhana Ashar,05-Need Attention,Qaraa PRO 6 Bulan,148,1,250000
+1506357,Ilyas Gemoy,05-Need Attention,Qaraa PRO 1 Tahun,148,1,300000
+1506026,Zainul hamid,05-Need Attention,Qaraa PRO 1 Bulan,128,1,50000
+1505663,Raihan Abdan Syakuran,05-Need Attention,Qaraa PRO 1 Tahun,148,1,300000
+1505629,Yoga Pratama,05-Need Attention,Flash Sale Ramadhan 1 Tahun,121,1,255000
+1505561,Ahmad Fauzi,05-Need Attention,Qaraa PRO 1 Tahun,137,1,300000
+1505554,Devina Novianingsih,05-Need Attention,1 Tahun Qara'a #JadiBerkah,141,1,270000
+1505494,Ruca Mustika,05-Need Attention,Qaraa PRO 1 Tahun,148,1,300000
+1505042,Ardi Umasugi,05-Need Attention,Qaraa PRO 1 Bulan,148,1,50000
+1504874,Rina Royhanah,05-Need Attention,Qaraa PRO 1 Bulan,148,1,50000
+1507373,Diyas Diyas,05-Need Attention,Qaraa PRO 1 Tahun,147,1,300000
+1502968,Susanti,05-Need Attention,Qaraa PRO 1 Tahun,151,1,300000
+1502935,Bani Hamni,05-Need Attention,Qaraa PRO 1 Bulan,151,1,50000
+1501403,nur asiyah,05-Need Attention,Qaraa PRO 1 Tahun,152,2,600000
+1501400,Ahmad Ghazi,05-Need Attention,Qara'a Family #JadiBerkah,140,1,159000
+1501359,Waryo Yono,05-Need Attention,Qaraa PRO 1 Tahun,151,2,600000
+412603,Muhammad Akif,05-Need Attention,Qaraa PRO 1 Bulan,169,1,50000
+1501226,Dewi,05-Need Attention,Paket 1 Bulan Flash Sale Akhir Bulan,151,2,100000
+1501226,Dewi,05-Need Attention,Qaraa PRO 1 Bulan,151,2,100000
+1501124,Nelva,05-Need Attention,Qaraa PRO 1 Bulan,83,2,100000
+1500958,Be Ni,05-Need Attention,Paket 6 Bulan Flash Sale Akhir Bulan,152,1,125000
+1500717,Zalfa Aifa,05-Need Attention,Qaraa PRO 1 Tahun,147,1,300000
+1500715,Rizqullah Hassan,05-Need Attention,Qaraa PRO 1 Bulan,153,1,50000
+1500460,yusuf rachman,05-Need Attention,Paket 6 Bulan Flash Sale Akhir Bulan,152,1,125000
+1500451,Syaqila Putri,05-Need Attention,Qaraa PRO 1 Tahun,153,1,300000
+1500156,Rado Fajarpratama,05-Need Attention,Qaraa PRO 1 Tahun,149,1,300000
+1500123,Dian Amandasafira,05-Need Attention,Qaraa PRO 1 Bulan,153,2,350000
+1500123,Dian Amandasafira,05-Need Attention,Qaraa PRO 1 Tahun,153,2,350000
+717647,zein reza,05-Need Attention,Qaraa PRO 1 Tahun,154,1,300000
+1502955,Herlim Egi,05-Need Attention,Qaraa PRO 1 Bulan,149,1,50000
+1501549,Vivin Silvia,05-Need Attention,Qaraa PRO 1 Tahun,152,1,300000
+1501869,Jelang suci Ramadhani,05-Need Attention,Qaraa PRO 1 Bulan,137,1,50000
+1502893,Titin Sumarni,05-Need Attention,Paket 1 Bulan Flash Sale Akhir Bulan,150,1,50000
+1502841,Nay Azharine,05-Need Attention,Qaraa PRO 6 Bulan,151,1,250000
+1502795,Nabila Ahmad,05-Need Attention,Qaraa PRO 1 Tahun,151,1,300000
+1502678,Hilwa az zahwa,05-Need Attention,Qaraa PRO 1 Bulan,151,1,50000
+1502596,Dila oktiviani,05-Need Attention,Qaraa PRO 1 Tahun,122,1,300000
+1502507,Hendri.,05-Need Attention,Paket 1 Tahun Flash Sale Akhir Bulan,151,1,255000
+1502460,Fikayani Dalimunthe,05-Need Attention,1 bulan Insya Allah #SemuaBisaNgaji,148,3,150000
+1502460,Fikayani Dalimunthe,05-Need Attention,Qaraa PRO 1 Bulan,148,3,150000
+1502430,Ajiza,05-Need Attention,Qaraa PRO 3 Bulan,140,2,150000
+1502430,Ajiza,05-Need Attention,3 Bulan,140,2,150000
+1502341,Rajif Sanjaya,05-Need Attention,Qaraa PRO 1 Tahun,145,1,300000
+1502313,Ummi Qulsum,05-Need Attention,Qaraa PRO 1 Tahun,151,1,300000
+1502092,wulan sagita,05-Need Attention,Qaraa PRO 1 Tahun,151,1,300000
+1501985,Albi Rafi,05-Need Attention,Qaraa PRO 1 Bulan,148,3,150000
+1501877,Dhfitha nisa nur Ramadhan ni,05-Need Attention,Qaraa PRO 1 Bulan,152,1,50000
+1501787,mrali permana,05-Need Attention,Qaraa PRO 1 Tahun,150,1,300000
+1515945,Rohman Hakim,05-Need Attention,Qaraa PRO 1 Bulan,138,1,50000
+1507518,Marlina Rizkiana Putri,05-Need Attention,Qaraa PRO 1 Bulan,144,2,100000
+1507541,Syila Sila syii,05-Need Attention,Qaraa PRO 1 Tahun,147,1,300000
+1513206,Malka Firdaus,05-Need Attention,Qaraa PRO 1 Bulan,142,1,50000
+1512555,Faizin Noor,05-Need Attention,Qaraa PRO 1 Bulan,142,1,50000
+1512457,Eka Mustika,05-Need Attention,Qaraa PRO 1 Tahun,123,1,300000
+1512188,ANI KOMALASARI,05-Need Attention,Qaraa PRO 1 Bulan,142,1,50000
+1512119,Herman Wahyu,05-Need Attention,1 Bulan Qara'a #JadiBerkah,97,2,95000
+1512119,Herman Wahyu,05-Need Attention,Qaraa PRO 1 Bulan,97,2,95000
+1512117,Syaid Alidrus,05-Need Attention,Qaraa PRO 1 Bulan,142,1,50000
+1512043,Kholidin,05-Need Attention,Qaraa PRO 1 Bulan,143,1,50000
+1511898,RAHMA MAQFIRA MAULANI,05-Need Attention,Qaraa PRO 1 Tahun,142,1,300000
+1511863,Sin Dicindy sasmita,05-Need Attention,Qaraa PRO 1 Bulan,143,1,50000
+1511752,Riska Vivo,05-Need Attention,Qaraa PRO 1 Tahun,143,1,300000
+1511728,Tedi Riyadi,05-Need Attention,Qaraa PRO 1 Bulan,143,1,50000
+1511716,Yuslina Annisah,05-Need Attention,Qaraa PRO 1 Tahun,142,1,300000
+1511614,Fathan Zhafran,05-Need Attention,Qaraa PRO 1 Tahun,143,1,300000
+1511449,Farel Eklan,05-Need Attention,Qaraa PRO 1 Tahun,143,1,300000
+1513218,Thalita Salsabila,05-Need Attention,Qaraa PRO 1 Bulan,141,3,400000
+1511445,Rismawati Muslaeni,05-Need Attention,Qaraa PRO 1 Bulan,65,3,150000
+1513218,Thalita Salsabila,05-Need Attention,Qaraa PRO 1 Tahun,141,3,400000
+1549530,sherana tx,05-Need Attention,Qaraa PRO 1 Bulan,121,1,50000
+1515767,Yulian Akbari,05-Need Attention,Qaraa PRO 1 Tahun,107,2,475000
+1515725,Elin Eni,05-Need Attention,Qaraa PRO 1 Bulan,139,1,50000
+1515499,heri waluyo,05-Need Attention,Qaraa PRO 1 Tahun,90,1,300000
+1514803,Daffa Arrofi,05-Need Attention,6 Bulan Qara'a #JadiBerkah,140,1,150000
+1514774,Difa Aulia,05-Need Attention,Qaraa PRO 1 Tahun,136,1,300000
+1514706,Isma Guricci Lanny,05-Need Attention,Qaraa PRO 1 Bulan,140,1,50000
+1514644,Isnani Aries Sandi,05-Need Attention,Qaraa PRO 1 Tahun,139,1,300000
+1514318,Miranda,05-Need Attention,6 Bulan Qara'a #JadiBerkah,141,1,150000
+1514255,Adi byun hun lee Hun lee,05-Need Attention,Qaraa PRO 1 Bulan,138,3,150000
+1513899,Siti fatima Azzahra,05-Need Attention,Qaraa PRO 1 Bulan,141,1,50000
+1513779,Dwiki,05-Need Attention,Qaraa PRO 1 Tahun,141,1,300000
+1513708,yash mesin,05-Need Attention,Qaraa PRO 1 Bulan,132,1,50000
+1513655,riyana098 Carik,05-Need Attention,Qaraa PRO 1 Tahun,141,1,300000
+1513626,Elsa Nurhayati,05-Need Attention,Qaraa PRO 1 Tahun,103,1,300000
+1513579,Olla Abdillah Agam,05-Need Attention,Qaraa PRO 1 Bulan,120,1,50000
+1513337,Supartono Supartono,05-Need Attention,Qaraa PRO 1 Bulan,140,1,50000
+1507534,Fajri Bahrun,05-Need Attention,Qaraa PRO 1 Bulan,147,1,50000
+1511309,Pendi Dumyati,05-Need Attention,Qaraa PRO 1 Bulan,142,1,50000
+1511226,Muhammad Irsyad,05-Need Attention,Qaraa PRO 1 Tahun,143,1,300000
+1509213,Robi Bapuk,05-Need Attention,Qaraa PRO 1 Tahun,145,1,300000
+1509122,vita,05-Need Attention,Qaraa PRO 1 Bulan,141,2,100000
+1509117,Isna Isdar,05-Need Attention,Qaraa PRO 1 Tahun,145,1,300000
+1509074,Aruwan Abiaisyah,05-Need Attention,Qaraa PRO 1 Bulan,145,2,100000
+1509058,Moreno Muhammad Syahidin,05-Need Attention,Qaraa PRO 1 Bulan,142,1,50000
+1508968,Ade Putra,05-Need Attention,Qaraa PRO 1 Bulan,99,1,50000
+1508931,Yogi Adam Pratama,05-Need Attention,Flash Sale Ramadhan 1 Bulan,111,1,45000
+1508922,Wahyu Ardiantoro,05-Need Attention,Qaraa PRO 1 Tahun,83,1,300000
+1508775,Linda Lestari,05-Need Attention,Qaraa PRO 3 Bulan,145,1,100000
+1508589,SYIFA GRATAMA,05-Need Attention,Qaraa PRO 1 Bulan,146,1,50000
+1508560,Andi Doank,05-Need Attention,Qaraa PRO 1 Bulan,145,2,100000
+1508367,Altea,05-Need Attention,Qaraa PRO 1 Tahun,146,3,900000
+1508257,evi dwi,05-Need Attention,Qaraa PRO 1 Bulan,146,1,50000
+1508249,RUSYDI RUSYDI,05-Need Attention,Qaraa PRO 1 Tahun,146,1,300000
+1508225,baiq ratna utami pratiwi,05-Need Attention,Qaraa PRO 1 Tahun,65,1,300000
+98740,David,05-Need Attention,Flash Sale Akhir Tahun 1 Tahun,181,1,249000
+1511244,ANI WIJI ASTUTI,05-Need Attention,Qaraa PRO 1 Bulan,142,1,50000
+1509454,Irul mustofa,05-Need Attention,Qaraa PRO 1 Bulan,145,1,50000
+1509687,Nuzul Rohmah,05-Need Attention,Qaraa PRO 1 Bulan,145,1,50000
+1510990,Muhammad Ashar,05-Need Attention,Qaraa PRO 1 Tahun,143,1,300000
+1510859,Cahaya Salsabila,05-Need Attention,Qaraa PRO 1 Bulan,144,3,400000
+1510859,Cahaya Salsabila,05-Need Attention,Qaraa PRO 1 Tahun,144,3,400000
+1510577,Fadhiilah,05-Need Attention,Qaraa PRO 1 Tahun,143,1,300000
+1510548,Aprilita,05-Need Attention,Qaraa PRO 1 Bulan,144,1,50000
+1510427,ANUGRAH,05-Need Attention,Qaraa PRO 1 Tahun,144,1,300000
+1510354,Yana Sholikah,05-Need Attention,Qaraa PRO 1 Tahun,144,1,300000
+1510351,Sukarjo Wiyarja,05-Need Attention,Qaraa PRO 1 Tahun,144,1,300000
+1510138,Abdul Gandi,05-Need Attention,Qaraa PRO 1 Bulan,144,1,50000
+1510134,rizal axel,05-Need Attention,Qaraa PRO 1 Bulan,112,1,50000
+1510092,fahri,05-Need Attention,Qaraa PRO 1 Bulan,144,2,100000
+1510072,Beny97 beny,05-Need Attention,Qaraa PRO 1 Tahun,144,1,300000
+696219,Ammar Fasa,05-Need Attention,Qaraa PRO 1 Bulan,120,1,50000
+1509879,Refaldi Pamungkas,05-Need Attention,Qaraa PRO 1 Bulan,138,1,50000
+1509812,Salwa Khaira,05-Need Attention,Qaraa PRO 1 Tahun,144,1,300000
+1509656,Ahmad Sugeng,05-Need Attention,Qaraa PRO 1 Tahun,145,1,300000
+1550052,jay Hess,05-Need Attention,1 Tahun Qara'a #JadiBerkah,105,1,270000
+1554320,Rino Damar Jati,05-Need Attention,Qaraa PRO 1 Bulan,115,1,50000
+1550400,Lambamg,05-Need Attention,Qaraa PRO 1 Tahun,121,1,300000
+1574736,nurvita indarini,05-Need Attention,1 Tahun Qara'a Pro Flash Sale April,63,1,240000
+1574670,fikah,05-Need Attention,Qaraa PRO 1 Bulan,66,1,50000
+1574664,Nabila adhwa azzahra,05-Need Attention,Qaraa PRO 1 Bulan,67,1,50000
+1574605,Nadin Novita sari,05-Need Attention,Qaraa PRO 1 Bulan,67,1,50000
+1574453,Deddy Kusuma,05-Need Attention,Qaraa PRO 1 Tahun,67,1,300000
+1574431,Qiana tahir,05-Need Attention,Qaraa PRO 1 Bulan,68,1,50000
+1574378,Nova Istiqomah,05-Need Attention,Promo Istiqomah 1 Tahun Qara'a PRO,68,1,270000
+1574355,Ain Tiara,05-Need Attention,Qaraa PRO 1 Bulan,62,1,50000
+1574350,Gruda,05-Need Attention,Qaraa PRO 1 Bulan,68,1,50000
+609086,Lusi Oktqrina,05-Need Attention,1 tahun Insya Allah #SemuaBisaNgaji,163,1,270000
+1574100,namira ks,05-Need Attention,Qaraa PRO 1 Tahun,70,1,300000
+1573986,Anizar,05-Need Attention,Qaraa PRO 1 Bulan,70,2,100000
+1573968,Rani Tiarasti,05-Need Attention,Qaraa PRO 1 Bulan,70,1,50000
+1573945,Khalid Effendi,05-Need Attention,Qaraa PRO 1 Bulan,70,3,150000
+1573853,Rini Afriyani,05-Need Attention,Qaraa PRO 1 Tahun,71,1,300000
+1574962,Purnama Sari,05-Need Attention,Qaraa PRO 1 Tahun,65,1,300000
+1573850,Hilda Sari,05-Need Attention,Promo Istiqomah 1 Tahun Qara'a PRO,71,2,570000
+1575090,Prncsskaaa🌹,05-Need Attention,Qaraa PRO 1 Bulan,64,2,100000
+1575210,Indriana Sl,05-Need Attention,Qaraa PRO 1 Bulan,63,1,50000
+546230,Fajar Shiddeiq,05-Need Attention,Qaraa PRO 1 Bulan,122,2,100000
+554301,Agus Sarifudin,05-Need Attention,Qaraa PRO 1 Bulan,149,2,150000
+554301,Agus Sarifudin,05-Need Attention,Qaraa PRO 3 Bulan,149,2,150000
+556819,miftayanti nurjannah,05-Need Attention,Flash Sale Ramadhan 1 Bulan,122,1,45000
+559406,انس,05-Need Attention,Qaraa PRO 1 Tahun,110,1,300000
+56137,mahendra Nur 'Alif Pramuditya,05-Need Attention,Qaraa PRO 1 Bulan,89,3,150000
+572800,Zikra Aulia,05-Need Attention,Flash Sale Ramadhan 1 Tahun,108,1,255000
+573034,Heriyan Syah,05-Need Attention,Flash Sale Ramadhan 1 Tahun,122,1,255000
+58291,ellie,05-Need Attention,Qaraa PRO 1 Bulan,135,2,100000
+597266,Winarti Endang Wiji Astuti,05-Need Attention,1 Tahun Qara'a #JadiBerkah,132,1,270000
+598227,MA'RUF YUDHATAMA,05-Need Attention,6 bulan Insya Allah #SemuaBisaNgaji,162,1,150000
+600199,Andien Muhamad,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1575554,Alya,05-Need Attention,Qaraa PRO 1 Tahun,61,1,300000
+601782,Atikah,05-Need Attention,Qaraa PRO 1 Bulan,138,1,50000
+1575421,Supriyati,05-Need Attention,Qaraa PRO 1 Bulan,62,2,100000
+60666,guesty,05-Need Attention,Qaraa PRO 1 Bulan,132,2,100000
+541,Muhammadarifin,05-Need Attention,Qaraa PRO 1 Bulan,132,3,150000
+1573850,Hilda Sari,05-Need Attention,Qaraa PRO 1 Tahun,71,2,570000
+1573753,JIHAN Ayu dewantari,05-Need Attention,Qaraa PRO 1 Bulan,71,1,50000
+1570952,Mara Siregar,05-Need Attention,Promo Istiqomah 1 Tahun Qara'a PRO,81,1,270000
+1570864,Tasya Aprilia,05-Need Attention,Qaraa PRO 1 Bulan,82,1,50000
+1570636,Dicky Efendi,05-Need Attention,Qaraa PRO 1 Bulan,83,1,50000
+1570604,Arie Noegraha,05-Need Attention,Qaraa PRO 1 Tahun,83,1,300000
+1570428,ceny,05-Need Attention,Qaraa PRO 1 Tahun,85,1,300000
+1570411,Ani 73lZahramaulida,05-Need Attention,Qaraa PRO 1 Tahun,85,1,300000
+1570267,Salsabila Balqis,05-Need Attention,Qaraa PRO 1 Bulan,86,1,50000
+1570214,najwa ica,05-Need Attention,Qaraa PRO 1 Tahun,85,1,300000
+1570067,ZAINAL ABIDIN,05-Need Attention,Qara'a Flash Sale Lebaran 1 Tahun,87,1,240000
+1570050,Ahmad Syukur Almuhni,05-Need Attention,Qaraa PRO 1 Bulan,84,1,50000
+1569982,Fahma Febriana,05-Need Attention,Qaraa PRO 1 Bulan,82,1,50000
+1569936,Puspasari Miki,05-Need Attention,Qaraa PRO 1 Bulan,88,2,100000
+1569868,Aliffiani Widyansyah,05-Need Attention,Qaraa PRO 1 Tahun,87,1,300000
+1569759,Abu Alfathoriq,05-Need Attention,Qaraa PRO 1 Tahun,89,2,600000
+1569750,Ryoo Txs,05-Need Attention,Qaraa PRO 1 Bulan,89,1,50000
+1571206,Rara,05-Need Attention,Qaraa PRO 1 Tahun,80,1,300000
+1573787,nadira maulina amanda,05-Need Attention,Qaraa PRO 1 Tahun,71,2,600000
+622197,Maitsa Zhulaikha,05-Need Attention,Qaraa PRO 1 Bulan,162,1,50000
+1571785,yaumil tasnima,05-Need Attention,Qaraa PRO 1 Bulan,76,1,50000
+1573432,mira maulidina,05-Need Attention,Qaraa PRO 1 Bulan,64,1,50000
+1573411,Melly Andicha,05-Need Attention,Qaraa PRO 1 Bulan,73,1,50000
+1573388,Setya Dharmawan,05-Need Attention,Qaraa PRO 1 Tahun,73,2,600000
+1573298,mayang,05-Need Attention,Qaraa PRO 1 Tahun,73,1,300000
+1573246,Yul Rachmawati,05-Need Attention,Qaraa PRO 1 Bulan,73,1,50000
+61544,Dessy Ilsanti,05-Need Attention,1 Tahun Qara'a #JadiBerkah,106,1,270000
+1573138,Lisa Amalia,05-Need Attention,Qaraa PRO 1 Bulan,73,1,50000
+1572899,E. Barack,05-Need Attention,Qaraa PRO 1 Bulan,74,1,50000
+1572863,Yuli Tri Amanda,05-Need Attention,Qaraa PRO 1 Bulan,74,1,50000
+1572594,Syska Febriani,05-Need Attention,Qaraa PRO 1 Tahun,74,1,300000
+1572520,Lidbahaweres,05-Need Attention,Qaraa PRO 1 Tahun,74,1,300000
+1572194,Riza Dharmawan,05-Need Attention,Qaraa PRO 1 Tahun,75,1,300000
+1571936,Qery Uni,05-Need Attention,Qaraa PRO 1 Bulan,74,2,100000
+1571925,Haidar Januar,05-Need Attention,Qaraa PRO 1 Bulan,76,1,50000
+1571793,Mirna Sien,05-Need Attention,Qaraa PRO 1 Tahun,77,3,900000
+1571692,Ahmad Ainul,05-Need Attention,Qaraa PRO 1 Bulan,77,1,50000
+1569747,yhns fbry,05-Need Attention,Qaraa PRO 1 Bulan,77,1,50000
+538420,Anisa Nuraini,05-Need Attention,Qaraa PRO 1 Tahun,151,1,300000
+526461,Rachma ama,05-Need Attention,1 tahun Insya Allah #SemuaBisaNgaji,160,1,270000
+30944,+6285377452884,05-Need Attention,Qaraa PRO 1 Tahun,93,1,300000
+309071,Ketrin 99,05-Need Attention,Qaraa PRO 1 Tahun,134,1,300000
+305992,Sabil Rz,05-Need Attention,Qaraa PRO 1 Bulan,171,1,50000
+294213,Desvia Safitri,05-Need Attention,6 bulan Insya Allah #SemuaBisaNgaji,165,1,150000
+291524,za ra,05-Need Attention,Qaraa PRO 1 Bulan,127,1,50000
+290841,Bu Ery,05-Need Attention,Flash Sale Akhir Tahun 1 Tahun,178,2,498000
+2846,Kapal Kapal,05-Need Attention,Qaraa PRO 1 Bulan,123,2,100000
+273214,Nasir Casillas,05-Need Attention,Paket 1 Tahun Flash Sale Akhir Bulan,154,1,255000
+27172,Rafita Ayuningtyas,05-Need Attention,1 Bulan Qara'a Pro Flash Sale April,62,1,50000
+266469,Furqan Ahmad,05-Need Attention,Promo Istiqomah 1 Tahun Qara'a PRO,67,1,270000
+4571,+6281310204020,05-Need Attention,Qaraa PRO 1 Tahun,121,2,600000
+250877,Aang Zaelani,05-Need Attention,Qaraa PRO 1 Bulan,67,1,50000
+244307,Muflih Afsy,05-Need Attention,Qaraa PRO 3 Bulan,106,1,100000
+45774,Junaedi,05-Need Attention,Flash Sale Ramadhan 1 Bulan,121,1,45000
+240,Luthfiah.j,05-Need Attention,Qaraa PRO 1 Bulan,123,2,100000
+317352,Mariono pamungkas Pamungkas,05-Need Attention,Paket 1 Tahun Flash Sale Akhir Bulan,154,1,255000
+233326,Sigit Jarkasih,05-Need Attention,Qaraa PRO 1 Tahun,147,1,300000
+322179,mas bejo,05-Need Attention,Qaraa PRO 1 Bulan,167,1,50000
+327,Khairul Ichsan,05-Need Attention,Qaraa PRO Family 1 tahun,126,1,649000
+38851,arie tiyo,05-Need Attention,Qaraa PRO 1 Bulan,138,1,50000
+38689,Eliza,05-Need Attention,Paket 6 Bulan Flash Sale Akhir Bulan,149,1,125000
+381363,aris andrianto,05-Need Attention,Qaraa PRO 1 Bulan,161,1,50000
+379674,BOCHIL PETUALANG,05-Need Attention,Qaraa PRO 1 Bulan,112,2,100000
+368961,Suciaty 23874,05-Need Attention,1 Tahun Qara'a #JadiBerkah,131,2,570000
+368961,Suciaty 23874,05-Need Attention,Qaraa PRO 1 Tahun,131,2,570000
+365954,Rizky Rafi Azhara,05-Need Attention,Flash Sale Ramadhan 6 Bulan,122,1,175000
+36317,Sugi Yanto,05-Need Attention,Qaraa PRO Family 1 tahun,87,1,649000
+42,Awalludin,05-Need Attention,Qaraa PRO 1 Bulan,120,2,100000
+422544,Rakhilo Nasution,05-Need Attention,Qaraa PRO 1 Bulan,176,1,50000
+340538,Dian Shinta,05-Need Attention,Paket 6 Bulan Flash Sale Akhir Bulan,154,1,125000
+339390,Kemal Yazid Ridha,05-Need Attention,Paket 6 Bulan Flash Sale Akhir Bulan,150,1,125000
+424219,yosi hasan,05-Need Attention,Qaraa PRO 3 Bulan,132,2,200000
+328126,Aisyah,05-Need Attention,Qaraa PRO 1 Tahun,173,3,800000
+328126,Aisyah,05-Need Attention,Qaraa PRO 6 Bulan,173,3,800000
+439690,TPQ Al-khalis Meulaboh,05-Need Attention,Promo Istiqomah 1 Tahun Qara'a PRO,69,2,540000
+527077,senja,05-Need Attention,Flash Sale Ramadhan 1 Bulan,123,1,45000
+229,Sri wahyuni,05-Need Attention,Qaraa PRO 1 Bulan,117,3,350000
+22,Novia rizki amalia,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+16498,Ananda Ilham,05-Need Attention,Qaraa PRO 1 Tahun,113,1,300000
+458605,muhammad syahrir,05-Need Attention,1 Bulan Qara'a #JadiBerkah,141,1,50000
+463651,Hasbullah Sanaky,05-Need Attention,Qaraa PRO 1 Tahun,143,1,300000
+465713,muhammad sadiqin,05-Need Attention,Flash Sale Ramadhan 1 Tahun,124,1,255000
+472242,Adista mutiara Sari,05-Need Attention,Qaraa PRO 1 Bulan,151,1,50000
+480205,ahsan kids,05-Need Attention,Flash Sale Ramadhan 1 Bulan,122,1,45000
+481815,umaruddin,05-Need Attention,Upgrade Qara'a PRO 1 Tahun,173,1,270000
+4834,suham cahyono,05-Need Attention,Qaraa PRO 1 Bulan,110,1,50000
+484227,Dian Syah,05-Need Attention,Qaraa PRO 1 Bulan,162,2,100000
+492084,Khotib Muryantoo,05-Need Attention,Qaraa PRO 1 Bulan,148,1,50000
+501186,Nurfadhilah,05-Need Attention,Qaraa PRO 1 Tahun,112,1,300000
+503570,Novi Yanti,05-Need Attention,Flash Sale Ramadhan 6 Bulan,110,1,175000
+5039,Dedeh Sulastri,05-Need Attention,Qaraa PRO 1 Bulan,127,1,50000
+51045,Muhammad Hisyam Zakariya,05-Need Attention,Qaraa PRO 1 Bulan,66,1,50000
+52447,msw sarjie,05-Need Attention,Qaraa PRO 1 Tahun,108,3,900000
+171699,Herdi Yana,05-Need Attention,Qaraa PRO 1 Tahun,114,1,300000
+229,Sri wahyuni,05-Need Attention,Qaraa PRO 6 Bulan,117,3,350000
+1717,Suharti,05-Need Attention,Qaraa PRO 1 Tahun,111,1,300000
+177464,Kurniastuti Putri Fikdiani,05-Need Attention,Flash Sale Ramadhan 1 Tahun,122,1,255000
+21752,Adin Ralin,05-Need Attention,1 Tahun Qara'a #JadiBerkah,111,2,570000
+21752,Adin Ralin,05-Need Attention,Qaraa PRO 1 Tahun,111,2,570000
+21231,+6281248089072,05-Need Attention,Qaraa PRO 1 Bulan,120,1,50000
+206261,saipul asri,05-Need Attention,1 tahun Insya Allah #SemuaBisaNgaji,168,3,870000
+206261,saipul asri,05-Need Attention,Qaraa PRO 1 Tahun,168,3,870000
+20107,Fajri,05-Need Attention,Qaraa PRO 6 Bulan,104,1,250000
+200876,Tri Marjatmo,05-Need Attention,Paket 6 Bulan Flash Sale Akhir Bulan,150,1,125000
+19698,+628119988795,05-Need Attention,Qaraa PRO 1 Bulan,111,1,50000
+195903,Berbagi Info,05-Need Attention,Qaraa PRO 1 Bulan,181,1,50000
+190947,Andy  S. Wijaya,05-Need Attention,Qaraa PRO 1 Bulan,141,2,350000
+190947,Andy  S. Wijaya,05-Need Attention,Qaraa PRO 1 Tahun,141,2,350000
+18608,+6285722014223,05-Need Attention,Qaraa PRO 1 Tahun,117,2,600000
+186,Nur Islamiyati,05-Need Attention,Qaraa PRO 1 Bulan,66,1,50000
+181159,Apartemen Bertasbih,05-Need Attention,Qaraa PRO 1 Bulan,107,1,50000
+17889,Rosalina,05-Need Attention,Qaraa PRO 1 Bulan,116,3,150000
+17678,+6281330641872,05-Need Attention,Qaraa PRO 1 Tahun,67,3,900000
+1569701,Deden,05-Need Attention,Qaraa PRO 1 Bulan,89,1,50000
+1569545,Dian Septini,05-Need Attention,Qaraa PRO 1 Tahun,90,2,600000
+1569385,rasya khairunnida,05-Need Attention,Qaraa PRO 1 Bulan,91,1,50000
+1560043,Ela Maesaroh,05-Need Attention,Qaraa PRO 1 Bulan,115,2,100000
+1560006,Fatiqul Islamiah,05-Need Attention,Qaraa PRO 1 Bulan,115,2,100000
+1559918,Chusnul Khotimah,05-Need Attention,Qaraa PRO 1 Tahun,116,1,300000
+1559806,Enok Rika,05-Need Attention,Qaraa PRO 1 Bulan,116,1,50000
+1559708,Aira,05-Need Attention,Qaraa PRO 1 Tahun,105,1,300000
+1559668,Marwah Az.,05-Need Attention,Qaraa PRO 1 Tahun,94,1,300000
+1559666,Fadly Fatanah,05-Need Attention,Flash Sale Ramadhan 1 Tahun,116,1,255000
+1559553,Mariska Khairunnisa Fitriana,05-Need Attention,Qaraa PRO 1 Bulan,116,1,50000
+1559523,Afriawati M. Arief,05-Need Attention,Qaraa PRO 1 Bulan,113,1,50000
+1559458,Nita Aprianti,05-Need Attention,Qaraa PRO 1 Tahun,116,1,300000
+1558400,Nono Ngadiyono,05-Need Attention,Qaraa PRO 1 Tahun,116,1,300000
+1558385,Aninditha Azzahra,05-Need Attention,Qaraa PRO 1 Bulan,117,1,50000
+1558358,Kang Gegep,05-Need Attention,Qaraa PRO 1 Bulan,117,1,50000
+1558145,Robby Alfikri,05-Need Attention,Qaraa PRO 1 Bulan,117,1,50000
+1558040,Endang Purwaningsih,05-Need Attention,Qaraa PRO 3 Bulan,117,1,100000
+1560085,Kerjaan Selly Novira,05-Need Attention,Promo Istiqomah 1 Bulan Qara'a PRO,73,1,50000
+1557526,Nayla putri,05-Need Attention,Qaraa PRO 1 Bulan,117,1,50000
+1560182,Bimo Kusumo,05-Need Attention,Qaraa PRO 1 Bulan,115,1,50000
+1560365,Dayang Shynta Octaviani .Y.,05-Need Attention,Qaraa PRO 3 Bulan,113,1,100000
+657901,Sri Usanti,05-Need Attention,Qaraa PRO 1 Bulan,107,1,50000
+1562652,Fajri Sahidin,05-Need Attention,Qaraa PRO 1 Bulan,112,1,50000
+1562578,Muhammad Subhan,05-Need Attention,Qaraa PRO 1 Bulan,112,1,50000
+1562516,Hilman Ashshidiqin,05-Need Attention,Promo Ramadhan 1 Tahun Qara'a PRO,107,2,520000
+1562516,Hilman Ashshidiqin,05-Need Attention,Qaraa PRO 6 Bulan,107,2,520000
+1562151,Ghozi dan Ghaziyah,05-Need Attention,Qaraa PRO 1 Bulan,81,1,50000
+1562075,Chichi S. Hendarthi,05-Need Attention,Qaraa PRO 3 Bulan,113,1,100000
+661391,Vina Mlndstr,05-Need Attention,Qaraa PRO 1 Bulan,128,1,50000
+1561746,Muhammad Alwan Farhad,05-Need Attention,Qaraa PRO 1 Bulan,101,1,50000
+1561688,Rendy Giantara,05-Need Attention,Qaraa PRO 1 Bulan,113,1,50000
+1561371,"Andryan Nugraha, B.Sc., M.Si.",05-Need Attention,Qara'a Family  1 Bulan #JadiBerkah,105,1,109000
+1560952,Darel Putradl,05-Need Attention,Qaraa PRO 1 Bulan,114,1,50000
+1560860,Agung ariyanto,05-Need Attention,Qaraa PRO 1 Bulan,87,1,50000
+1560839,Silvi Rahayu,05-Need Attention,Qaraa PRO 1 Bulan,114,1,50000
+1560614,Aji Hanggoro,05-Need Attention,Qaraa PRO 1 Tahun,115,1,300000
+1560331,Imam Putrapratama,05-Need Attention,Qaraa PRO 1 Tahun,115,1,300000
+1563109,Wa Ode Sadati,05-Need Attention,Qaraa PRO 1 Bulan,99,1,50000
+1557288,Diaz Dinur,05-Need Attention,Qaraa PRO 1 Bulan,118,1,50000
+1557070,Cinta Santika,05-Need Attention,Qaraa PRO 1 Bulan,118,1,50000
+1554439,Farazdaq,05-Need Attention,Qaraa PRO 1 Bulan,113,1,50000
+1553915,Rahmawati,05-Need Attention,Qaraa PRO 1 Bulan,120,1,50000
+66865,Eki,05-Need Attention,Qaraa PRO 1 Bulan,112,1,50000
+1553494,Rizkiana Alfiani,05-Need Attention,Qaraa PRO 1 Bulan,120,1,50000
+1553450,Fajar Prasetyo,05-Need Attention,Flash Sale Ramadhan 1 Tahun,120,1,255000
+1553416,Zahwa Hanina,05-Need Attention,Qaraa PRO 1 Bulan,120,1,50000
+1553411,Siti Aisyahhh,05-Need Attention,Qaraa PRO 1 Tahun,120,1,300000
+1553238,Utari Dwi Kusumawati,05-Need Attention,Flash Sale Ramadhan 6 Bulan,120,1,175000
+1553148,Fildzah Khairuna Huwaida,05-Need Attention,Qaraa PRO 1 Tahun,121,1,300000
+1552977,alex Bajo,05-Need Attention,Qaraa PRO 1 Tahun,120,1,300000
+1552971,Anggeria Wanda Putri,05-Need Attention,Qaraa PRO 1 Bulan,121,1,50000
+1552650,Selamat Riyadi,05-Need Attention,Qaraa PRO 1 Bulan,121,1,50000
+1551837,kamariyah khayra,05-Need Attention,Qaraa PRO 1 Bulan,121,1,100000
+1551756,Hemas Kusuma,05-Need Attention,Qaraa PRO 1 Bulan,121,1,50000
+1551357,Putri,05-Need Attention,Qaraa PRO 1 Bulan,121,1,50000
+1554477,Abidzar Ali Gumiwang,05-Need Attention,Qaraa PRO 1 Bulan,116,1,50000
+1557203,Violet Cool,05-Need Attention,Qaraa PRO 1 Tahun,118,1,300000
+1554523,Aisyah Ziyan,05-Need Attention,Qaraa PRO 3 Bulan,113,1,100000
+1554676,Muhammad Fajaruddin,05-Need Attention,Qaraa PRO 1 Tahun,119,1,300000
+1557038,Nanda Ryaas,05-Need Attention,Qaraa PRO 1 Bulan,118,1,50000
+1556941,Eni Eni,05-Need Attention,Qaraa PRO 1 Tahun,118,3,900000
+1556879,ahmad sofikun,05-Need Attention,Qaraa PRO 1 Bulan,118,1,50000
+1556128,Aan Aul,05-Need Attention,Qaraa PRO 1 Tahun,118,1,300000
+1556069,Nurul Naura Nadhira,05-Need Attention,Qara'a Flash Sale Lebaran 1 Tahun,86,1,240000
+1555939,Kania Dewi,05-Need Attention,Qaraa PRO 3 Bulan,117,1,100000
+662458,Na ya,05-Need Attention,Flash Sale Ramadhan 1 Tahun,121,1,255000
+1555768,Fenda Ramadhani,05-Need Attention,Qaraa PRO 1 Bulan,82,2,100000
+1555278,red macaronn,05-Need Attention,Qaraa PRO 1 Tahun,86,1,300000
+666746,azmi dzulfikar rasyid,05-Need Attention,Qaraa PRO 1 Bulan,120,1,50000
+1555168,Riko Mr,05-Need Attention,Qaraa PRO 1 Bulan,119,1,50000
+1555137,Irfan Lubis,05-Need Attention,Qaraa PRO 1 Bulan,80,1,50000
+1554989,Satria Aji Pamungkas,05-Need Attention,Qara'a Flash Sale Lebaran 1 Tahun,94,2,510000
+1554989,Satria Aji Pamungkas,05-Need Attention,Promo Ramadhan 1 Tahun Qara'a PRO,94,2,510000
+1554870,fahrani hafizhah,05-Need Attention,Qaraa PRO 1 Bulan,120,1,50000
+1554540,Evi Pramudita,05-Need Attention,Qaraa PRO 1 Tahun,117,1,300000
+1563221,Herlambang Kavin Huda,05-Need Attention,Qaraa PRO 1 Bulan,111,1,50000
+1563293,Ahmad Kamel,05-Need Attention,Qaraa PRO 1 Bulan,110,1,1000
+1563490,Miftahul Faris,05-Need Attention,Qaraa PRO 1 Tahun,107,1,300000
+1567561,junaidi,05-Need Attention,Qaraa PRO 1 Tahun,100,1,300000
+1567359,Dwityo Prabowo,05-Need Attention,Qaraa PRO 1 Tahun,83,1,300000
+1567357,Devita Setyadi,05-Need Attention,Qaraa PRO 1 Bulan,94,1,50000
+1567346,Aqbar Pontoh,05-Need Attention,Qaraa PRO 1 Bulan,101,1,50000
+1567134,Harry Prakasa,05-Need Attention,Qaraa PRO 1 Bulan,94,3,150000
+1567059,Niken Larasati,05-Need Attention,Qara'a Flash Sale Lebaran 1 Tahun,90,1,240000
+1567036,Risa Yauma,05-Need Attention,Qaraa PRO 1 Bulan,101,1,50000
+1566821,sakura 10,05-Need Attention,Qaraa PRO 1 Tahun,62,1,300000
+1566673,dickysaputra,05-Need Attention,Qaraa PRO 1 Bulan,98,1,50000
+1566255,mp rop,05-Need Attention,Qaraa PRO 1 Bulan,98,1,150000
+1566044,Syanisa Febrianti koto,05-Need Attention,Qaraa PRO 1 Bulan,105,3,150000
+1566030,fuada Zahidah,05-Need Attention,Qaraa PRO 1 Bulan,105,1,50000
+1566022,Gina Raudhatul Jannah,05-Need Attention,Qaraa PRO 3 Bulan,70,2,145000
+1566022,Gina Raudhatul Jannah,05-Need Attention,1 Bulan Qara'a #JadiBerkah,70,2,145000
+1565962,heni marheni,05-Need Attention,Qaraa PRO 1 Bulan,89,1,50000
+1567605,Hamba Allah,05-Need Attention,Qaraa PRO 1 Bulan,97,1,50000
+1565876,Evi Makki,05-Need Attention,Qaraa PRO 1 Bulan,106,1,50000
+1567622,Sa'oer Sa'oer,05-Need Attention,Qaraa PRO 1 Bulan,100,1,50000
+1567651,Muhammad Hadiansyah,05-Need Attention,Qaraa PRO 1 Tahun,100,1,300000
+1569382,and21ts,05-Need Attention,Qara'a Flash Sale Lebaran 1 Tahun,86,1,240000
+1569355,renan,05-Need Attention,Qaraa PRO 1 Tahun,92,1,300000
+1569275,Adis Sukmapringga,05-Need Attention,Qaraa PRO 1 Bulan,92,1,50000
+1569201,Dewi Kartika,05-Need Attention,Qaraa PRO 1 Tahun,84,1,300000
+1569146,Puji budi asih,05-Need Attention,Qara'a Flash Sale Lebaran 1 Tahun,93,1,240000
+1568952,rialexcia,05-Need Attention,Qaraa PRO 1 Tahun,94,1,300000
+1568804,Kholifatun Nur,05-Need Attention,Qara'a Flash Sale Lebaran 1 Tahun,94,1,240000
+1568522,Raffa Sya,05-Need Attention,Qaraa PRO 1 Tahun,95,1,300000
+629713,nanang sunarno,05-Need Attention,Qaraa PRO 1 Bulan,115,1,50000
+1567934,Noor Maulinna,05-Need Attention,Qaraa PRO 1 Tahun,99,1,300000
+1567926,Okky Mahendra,05-Need Attention,Qaraa PRO 1 Tahun,99,1,300000
+1567906,Rika Nurhidayati,05-Need Attention,1 Tahun Qara'a #JadiBerkah,99,1,270000
+1567713,Savita Handayani123,05-Need Attention,Qaraa PRO 1 Tahun,100,1,300000
+1567708,Rifda Muafadya Zahra,05-Need Attention,Qaraa PRO 1 Bulan,100,1,50000
+1567700,PUNYA KAMU Kamu,05-Need Attention,Qaraa PRO 1 Bulan,100,1,50000
+1567627,Rkha aisy,05-Need Attention,Qaraa PRO 1 Bulan,100,1,50000
+1565840,Aidan Pramudya,05-Need Attention,1 Tahun Qara'a #JadiBerkah,106,1,270000
+1565798,Dini Sri Utami,05-Need Attention,Qaraa PRO 1 Tahun,106,1,300000
+1565777,Remi R,05-Need Attention,Qara'a Family  1 Bulan #JadiBerkah,99,1,109000
+1564624,Muthia Zahra,05-Need Attention,Promo Ramadhan 1 Bulan Qara'a PRO,105,2,90000
+1564622,Zahra Nur Khofifah,05-Need Attention,Promo Ramadhan 1 Tahun Qara'a PRO,107,3,620000
+1564622,Zahra Nur Khofifah,05-Need Attention,Promo Ramadhan 6 Bulan Qara'a PRO,107,3,620000
+1564512,tanyami,05-Need Attention,Qara'a Flash Sale Lebaran 1 Bulan,87,1,40000
+1564428,Wahyu Rahtawu,05-Need Attention,Qaraa PRO 1 Bulan,108,1,50000
+1564205,Babang Hans,05-Need Attention,Qaraa PRO 1 Bulan,109,1,50000
+1564173,Muhamad Nugroho,05-Need Attention,Qaraa PRO 1 Tahun,107,1,300000
+1564169,tre lom,05-Need Attention,Qaraa PRO 1 Tahun,109,1,300000
+1564168,Ulfi Audina,05-Need Attention,Qaraa PRO 1 Bulan,109,1,50000
+1564074,dynar anindya damayanti,05-Need Attention,Qaraa PRO 1 Tahun,107,1,300000
+1564006,sya,05-Need Attention,Qaraa PRO 1 Tahun,109,1,300000
+1563996,Septian Hadi wijaya,05-Need Attention,Promo Ramadhan 1 Tahun Qara'a PRO,107,1,270000
+1563906,Ivan Dhzokhar,05-Need Attention,Qaraa PRO 1 Tahun,65,1,300000
+1563779,Nysa Asy,05-Need Attention,Qaraa PRO 1 Bulan,110,1,50000
+1563493,Nursyahida JH,05-Need Attention,Qaraa PRO 1 Bulan,110,1,50000
+1564654,Muhammad Iqbal,05-Need Attention,Qaraa PRO 1 Bulan,61,2,100000
+644830,ermy syukur,05-Need Attention,1 Tahun Qara'a Pro Flash Sale April,62,1,240000
+1565000,Ujang Ridwan,05-Need Attention,Qaraa PRO 1 Bulan,107,1,50000
+1565040,Agus Sumantri,05-Need Attention,Qaraa PRO 1 Bulan,107,2,159000
+1565591,Fenita Zawawi,05-Need Attention,1 Tahun Qara'a #JadiBerkah,106,1,270000
+1565567,Florence Rosa,05-Need Attention,Promo Ramadhan 1 Bulan Qara'a PRO,106,1,45000
+1565562,yuni Arti,05-Need Attention,1 Tahun Qara'a #JadiBerkah,106,2,570000
+1565562,yuni Arti,05-Need Attention,Qaraa PRO 1 Tahun,106,2,570000
+1565556,Ica Mulkan,05-Need Attention,Promo Ramadhan 1 Tahun Qara'a PRO,106,1,270000
+1565487,Agil Azizi,05-Need Attention,Promo Ramadhan 1 Tahun Qara'a PRO,107,1,270000
+1565485,Boby Rumfot,05-Need Attention,Qaraa PRO 1 Bulan,106,1,50000
+1550222,hasrul maruf,05-Need Attention,Flash Sale Ramadhan 1 Tahun,120,1,255000
+63097,ikngaji,05-Need Attention,Qaraa PRO 1 Bulan,120,2,100000
+1565251,Farid Hunawa,05-Need Attention,Qaraa PRO 1 Bulan,107,1,50000
+1565210,tri retna,05-Need Attention,Promo Ramadhan 1 Tahun Qara'a PRO,107,1,270000
+641629,Nabila Syifa,05-Need Attention,Qaraa PRO 1 Bulan,138,1,50000
+644252,septian dwi handoko,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1565077,Eka S,05-Need Attention,Promo Istiqomah 1 Tahun Qara'a PRO,73,2,320000
+1565077,Eka S,05-Need Attention,Qaraa PRO 1 Bulan,73,2,320000
+1565040,Agus Sumantri,05-Need Attention,Qaraa PRO Family,107,2,159000
+1565263,Tantrie Aulia Putri,05-Need Attention,Promo Ramadhan 1 Bulan Qara'a PRO,107,1,45000
+15,Ahmad Kamel,05-Need Attention,1 Tahun,65,1,200000
+1501346,lili asmarani,05-Need Attention,Qaraa PRO 1 Bulan,152,1,50000
+1499726,Miftah Miftah,05-Need Attention,Qaraa PRO 1 Tahun,154,1,300000
+1439112,Herlin Priatna,05-Need Attention,Qaraa PRO 1 Bulan,91,2,100000
+1438788,Dhea Nurhalimah,05-Need Attention,Qaraa PRO 1 Tahun,106,1,300000
+1438775,yuliati indah purnamaningrum,05-Need Attention,Qaraa PRO 1 Bulan,90,1,50000
+1438664,Razqa Shayna Shanum,05-Need Attention,Qaraa PRO 1 Bulan,174,1,50000
+1438562,Ridha Maharanika,05-Need Attention,Qaraa PRO 1 Bulan,115,1,50000
+1437230,Sitti Nurbashirah Taqiya,05-Need Attention,Qaraa PRO 1 Bulan,148,1,50000
+1436148,Nadhira,05-Need Attention,Paket 1 Tahun Flash Sale Akhir Bulan,141,1,255000
+1435434,ADITYA HASIANI,05-Need Attention,Qaraa PRO 1 Bulan,180,1,50000
+1435269,Ahmad Daud,05-Need Attention,Qara'a Family Insya Allah #SemuaBisaNgaji,166,1,159000
+1434545,Jihannisa,05-Need Attention,Qaraa PRO 1 Bulan,170,1,50000
+1434524,Azmi Aqil,05-Need Attention,1 bulan Insya Allah #SemuaBisaNgaji,158,1,50000
+772612,Kaussar WG,05-Need Attention,Qaraa PRO 1 Bulan,130,1,50000
+1434019,Luna Tristofa,05-Need Attention,Qaraa PRO 3 Bulan,117,1,100000
+1432686,Nadila Setiabudiarto,05-Need Attention,Qaraa PRO 1 Bulan,121,1,50000
+1432217,Halfa SM,05-Need Attention,Qaraa PRO 1 Bulan,70,1,50000
+1439260,Puput Matalatta,05-Need Attention,Qaraa PRO 1 Bulan,105,1,50000
+1431901,Novita Mardiana,05-Need Attention,Qaraa PRO 1 Bulan,105,1,50000
+1440429,Nadia Putri,05-Need Attention,Qaraa PRO 1 Bulan,73,1,50000
+1440562,melodi,05-Need Attention,Qaraa PRO 1 Bulan,79,1,50000
+1449384,aswir pratama,05-Need Attention,Qaraa PRO 1 Tahun,176,1,300000
+1448980,Asrida Baso Amang,05-Need Attention,Qaraa PRO 3 Bulan,169,2,200000
+1448856,Fitri Sh,05-Need Attention,Qaraa PRO 1 Tahun,180,2,600000
+770876,M. Adiek Izzul islam,05-Need Attention,Qaraa PRO 1 Bulan,122,2,100000
+1447958,Octo,05-Need Attention,Qaraa PRO 1 Tahun,147,2,600000
+1447001,Ika Agustianti,05-Need Attention,Qaraa PRO 1 Bulan,78,1,50000
+1445160,Novita Lestari,05-Need Attention,Qaraa PRO 1 Bulan,74,1,50000
+1444631,Emilda Narcis,05-Need Attention,1 tahun Insya Allah #SemuaBisaNgaji,159,2,540000
+1444569,Nurul Islah,05-Need Attention,Promo Istiqomah 1 Tahun Qara'a PRO,77,2,540000
+1444355,dilia putri,05-Need Attention,Qaraa PRO 1 Tahun,128,2,350000
+1444355,dilia putri,05-Need Attention,1 bulan Insya Allah #SemuaBisaNgaji,128,2,350000
+1443968,Selma Hayuwandira,05-Need Attention,Qaraa PRO 1 Bulan,109,1,50000
+770982,Siti Hayatul Millah,05-Need Attention,Qaraa PRO 1 Bulan,127,1,50000
+1440851,Tri Anis Wulandari,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1440740,Eva Yunita,05-Need Attention,Qaraa PRO 1 Bulan,103,1,50000
+1440488,Tritia Mutiara,05-Need Attention,Qaraa PRO 1 Tahun,101,1,300000
+768722,mada harinda,05-Need Attention,1 Tahun Qara'a #JadiBerkah,106,2,540000
+1431056,Fitri Kurnia Dewi,05-Need Attention,Qaraa PRO 1 Tahun,109,2,350000
+14306,siti nurjannah,05-Need Attention,Qaraa PRO 1 Bulan,117,1,50000
+1417996,irfan akbar,05-Need Attention,Qaraa PRO 1 Bulan,83,1,50000
+1417845,Nur Hasanah,05-Need Attention,Paket 6 Bulan Flash Sale Akhir Bulan,152,2,250000
+1417314,Herman,05-Need Attention,Qaraa PRO 1 Tahun,90,1,300000
+1417184,ade saputra,05-Need Attention,Qaraa PRO 1 Bulan,125,1,50000
+1415891,Denny Hadiman,05-Need Attention,Qaraa PRO 1 Bulan,143,1,50000
+1415640,Putri Fikdiani,05-Need Attention,Qaraa PRO 1 Tahun,129,2,600000
+1415612,Meylani Sintia,05-Need Attention,Qaraa PRO 1 Bulan,146,2,100000
+1415250,Ade,05-Need Attention,Qaraa PRO 1 Bulan,108,1,50000
+1414982,Zahra Zahra,05-Need Attention,Qaraa PRO 1 Bulan,145,1,50000
+793010,supriansyah supriansyah,05-Need Attention,Qaraa PRO 3 Bulan,116,1,100000
+1411484,Sudarwanto Harjo,05-Need Attention,Upgrade Qara'a PRO 1 Tahun,173,2,570000
+1411484,Sudarwanto Harjo,05-Need Attention,Qaraa PRO 1 Tahun,173,2,570000
+1410204,A a,05-Need Attention,1 tahun Insya Allah #SemuaBisaNgaji,160,1,270000
+800174,Pakya Aja,05-Need Attention,Qaraa PRO 1 Tahun,114,1,300000
+814003,Lulu Andaru Chandra Purnama,05-Need Attention,Qaraa PRO 1 Tahun,156,1,300000
+1418013,Achmad Yuswadi,05-Need Attention,Qaraa PRO 1 Bulan,90,2,100000
+1431056,Fitri Kurnia Dewi,05-Need Attention,Qaraa PRO 1 Bulan,109,2,350000
+1418535,Luthfi Abdur Rahim,05-Need Attention,Qaraa PRO 1 Bulan,178,1,50000
+1420215,Ahmad Shalahuddin,05-Need Attention,Qaraa PRO 1 Tahun,160,1,300000
+1430161,Afron Afendi,05-Need Attention,Qaraa PRO 1 Bulan,121,1,50000
+778931,slavic one,05-Need Attention,Qaraa PRO 1 Tahun,65,1,300000
+779640,Achmad Taufiq,05-Need Attention,Qaraa PRO 1 Tahun,124,3,900000
+781596,Edy Mulyanto,05-Need Attention,Flash Sale Ramadhan 1 Tahun,121,1,255000
+1427440,nihayati haryanto,05-Need Attention,Qaraa PRO 1 Bulan,121,1,50000
+1426959,Ani Ismawati,05-Need Attention,Qaraa PRO 1 Bulan,114,1,50000
+1426253,Feri Harjulianto,05-Need Attention,Qaraa PRO 6 Bulan,122,1,250000
+14250,+6287829843612,05-Need Attention,Qaraa PRO 1 Tahun,129,1,300000
+1424885,Lira Pina,05-Need Attention,Paket 6 Bulan Flash Sale Akhir Bulan,154,1,125000
+1423876,Azmi Laudza,05-Need Attention,Qaraa PRO 1 Bulan,121,1,50000
+1422723,"Azhar, S.hut",05-Need Attention,Qaraa PRO 1 Bulan,93,2,100000
+1421040,Ella Dwi Cahya Ningrum,05-Need Attention,6 Bulan Qara'a #JadiBerkah,133,1,150000
+1420865,Pesek Bersaudara,05-Need Attention,1 Bulan Qara'a Pro Flash Sale April,63,2,100000
+1420865,Pesek Bersaudara,05-Need Attention,Paket 1 Bulan Flash Sale Akhir Bulan,63,2,100000
+1420453,Dua Sahaja,05-Need Attention,Qaraa PRO 1 Bulan,174,1,50000
+1418619,Abdul Latif Muhtadin,05-Need Attention,Qaraa PRO 1 Bulan,175,1,50000
+1451297,Fatkhurokhim Yasir,05-Need Attention,Qaraa PRO 1 Tahun,81,1,300000
+1451771,Sudrajat Harris Abdulloh,05-Need Attention,Qara'a Flash Sale Lebaran 1 Tahun,90,1,240000
+1451958,Mas Giem,05-Need Attention,1 Tahun Qara'a #JadiBerkah,137,1,270000
+1473740,awaluddin syakib,05-Need Attention,Qaraa PRO 1 Tahun,181,1,300000
+1473667,Hardiansyah,05-Need Attention,Qaraa PRO 3 Bulan,180,1,100000
+1473525,Sitti Nurhumaerah,05-Need Attention,Upgrade Qara'a PRO 1 Bulan,177,3,150000
+1473525,Sitti Nurhumaerah,05-Need Attention,Flash Sale Akhir Tahun 1 Bulan,177,3,150000
+1473423,Elfika Khoirun Nisa,05-Need Attention,Qaraa PRO 1 Bulan,175,1,50000
+1499992,Rizkiyana Azzahra,05-Need Attention,Qaraa PRO 1 Bulan,126,1,50000
+1472705,Elisah Firgiawanti,05-Need Attention,Qaraa PRO 1 Tahun,137,1,300000
+1472189,Bunda Zuli,05-Need Attention,Qaraa PRO 1 Bulan,178,1,50000
+1471898,Virmus R Munawar,05-Need Attention,Qaraa PRO 1 Tahun,169,1,300000
+1471619,Hasbullah Ullah,05-Need Attention,Qaraa PRO 1 Bulan,98,1,50000
+1471607,Lalu Urpan,05-Need Attention,Qaraa PRO 1 Bulan,178,1,50000
+1471333,Tika Maryadita,05-Need Attention,Qaraa PRO 1 Bulan,177,1,50000
+1471221,Alqa,05-Need Attention,Qaraa PRO 1 Bulan,181,3,150000
+1470914,Misbahul Munir,05-Need Attention,Qaraa PRO 1 Bulan,120,1,50000
+1470674,Nir wan,05-Need Attention,Qaraa PRO 1 Bulan,141,1,50000
+1473863,tatacantika,05-Need Attention,Qaraa PRO 1 Tahun,96,1,300000
+1470619,Danindra Chisaranto,05-Need Attention,Qaraa PRO 1 Bulan,63,1,50000
+1474010,Nizam Malik Al ghifari,05-Need Attention,Qaraa PRO 1 Bulan,181,1,50000
+1474162,putri  salsabila,05-Need Attention,Qaraa PRO 1 Bulan,172,1,50000
+1475240,agung setiawan,05-Need Attention,Flash Sale Akhir Tahun 1 Bulan,181,1,50000
+1475200,sri prihatinsi,05-Need Attention,Qaraa PRO 1 Tahun,180,1,300000
+1475124,Nur Fadila,05-Need Attention,Qaraa PRO 1 Tahun,181,1,300000
+1475120,Ratri Pramudita,05-Need Attention,Qaraa PRO 1 Bulan,146,3,150000
+1475057,Mhdpadil Nasution,05-Need Attention,Qaraa PRO 1 Tahun,171,1,300000
+1475037,Devvano Anoo,05-Need Attention,Qaraa PRO 1 Bulan,180,2,100000
+1474924,Kavin Bastian,05-Need Attention,Promo Ramadhan 6 Bulan Qara'a PRO,104,1,175000
+1474904,Gabreng mr.dinamo,05-Need Attention,Qaraa PRO 1 Tahun,181,1,300000
+1474897,Nazra Al afu Siregar,05-Need Attention,Qaraa PRO 1 Bulan,181,1,50000
+1474769,Baihaqi Elbiruny,05-Need Attention,Qaraa PRO 1 Tahun,171,1,300000
+1474765,Bsbshjs Hahshhs,05-Need Attention,Qaraa PRO Family,168,1,109000
+1474724,jelyy 1129,05-Need Attention,Qaraa PRO 1 Tahun,181,1,300000
+1474653,Halim Ferdian,05-Need Attention,Qaraa PRO 1 Bulan,181,1,50000
+1474575,Idha Nelvita,05-Need Attention,Qaraa PRO 1 Tahun,166,2,600000
+1474399,Hendra Hendra,05-Need Attention,Qaraa PRO 1 Bulan,173,1,50000
+1474121,herdy 126,05-Need Attention,Flash Sale Akhir Tahun 1 Tahun,179,1,249000
+1470521,Mul Yati,05-Need Attention,Qaraa PRO 1 Bulan,181,1,50000
+1470519,Wanda Ashilah,05-Need Attention,Qaraa PRO 1 Tahun,78,1,300000
+765865,Waryono Waryono,05-Need Attention,Qaraa PRO 1 Tahun,152,2,600000
+1460167,ilma,05-Need Attention,Flash Sale Akhir Tahun 1 Tahun,181,1,249000
+1459824,Yuliyanisuryani,05-Need Attention,Qaraa PRO 6 Bulan,147,1,250000
+1459170,Manda Amanda,05-Need Attention,Qaraa PRO 1 Tahun,173,2,350000
+1459170,Manda Amanda,05-Need Attention,Qaraa PRO 1 Bulan,173,2,350000
+1459104,rat miati,05-Need Attention,1 bulan Insya Allah #SemuaBisaNgaji,155,2,100000
+1458342,hafidz ahnaf,05-Need Attention,Qaraa PRO 1 Bulan,140,1,50000
+1456867,Mohammad Tyaga Abisekha,05-Need Attention,Qaraa PRO 1 Bulan,128,1,50000
+1456612,Dinar Hadiswara,05-Need Attention,Promo Istiqomah 1 Tahun Qara'a PRO,69,1,270000
+1456548,Aira,05-Need Attention,Qaraa PRO 1 Tahun,155,1,300000
+1455898,Asti Pratiwi Duhri,05-Need Attention,Qaraa PRO 1 Tahun,126,1,300000
+1453843,Cholifatun Chanifah,05-Need Attention,Qaraa PRO 1 Tahun,178,1,300000
+1452579,Rudy Purwanto,05-Need Attention,Qaraa PRO 1 Bulan,155,1,50000
+1452093,Darratul,05-Need Attention,Paket 1 Bulan Flash Sale Akhir Bulan,154,3,550000
+1452093,Darratul,05-Need Attention,Qaraa PRO 6 Bulan,154,3,550000
+1452067,sri purwati,05-Need Attention,Qaraa PRO 1 Tahun,70,1,300000
+1461194,Dwi Cahyono,05-Need Attention,Qaraa PRO 1 Bulan,163,1,50000
+1461570,Nur Feby putri,05-Need Attention,Qaraa PRO 1 Bulan,181,1,50000
+1461880,Ahmad Rahmidinnur,05-Need Attention,Flash Sale Akhir Tahun 1 Bulan,119,2,100000
+1461880,Ahmad Rahmidinnur,05-Need Attention,Qaraa PRO 1 Bulan,119,2,100000
+1470296,Keysha NadirSalsabila Salsabila,05-Need Attention,Qaraa PRO 1 Tahun,181,1,300000
+766292,Santi Susanti,05-Need Attention,Qaraa PRO 1 Bulan,148,3,150000
+1469539,Muti Chia,05-Need Attention,Qaraa PRO 1 Bulan,149,1,50000
+1468886,sukma sari,05-Need Attention,Flash Sale Akhir Tahun 1 Tahun,179,1,249000
+1468437,3Z GRAFIKA,05-Need Attention,6 Bulan Qara'a #JadiBerkah,127,1,150000
+1467873,Rizky Dzikir,05-Need Attention,Qaraa PRO Family 1 tahun,111,3,839800
+1467873,Rizky Dzikir,05-Need Attention,Paket Qara’a Family Flash Sale Akhir Bulan,111,3,839800
+1406974,Berliana nur Fatinah,05-Need Attention,Qaraa PRO 1 Bulan,145,1,50000
+1467206,Bunda Alfiah,05-Need Attention,Qaraa PRO 1 Tahun,174,1,300000
+1465096,Fahrizal Iksan,05-Need Attention,Qaraa PRO 1 Tahun,150,1,300000
+1465080,Yan Sinyo,05-Need Attention,Upgrade Qara'a PRO 1 Tahun,180,2,519000
+1465080,Yan Sinyo,05-Need Attention,Flash Sale Akhir Tahun 1 Tahun,180,2,519000
+1464295,Fitri Fifit,05-Need Attention,Qaraa PRO 1 Tahun,165,1,300000
+1463992,Sri Wahyu,05-Need Attention,1 Bulan Qara'a #JadiBerkah,104,2,90000
+1463094,Angcel Herman,05-Need Attention,Qaraa PRO 1 Bulan,180,1,50000
+1461897,sarjono,05-Need Attention,Qaraa PRO 1 Bulan,146,2,100000
+768563,ain,05-Need Attention,Flash Sale Ramadhan 1 Bulan,121,1,45000
+1404875,Richna Nisrina,05-Need Attention,Qaraa PRO 1 Tahun,177,2,600000
+1403441,emira lubna,05-Need Attention,Qaraa PRO 1 Bulan,100,1,50000
+1400961,"Kokom Ratna Komalasari, S Pd",05-Need Attention,Qaraa PRO 1 Bulan,123,1,50000
+1238362,Mustofa Chafsin,05-Need Attention,Qaraa PRO 1 Tahun,144,1,300000
+1227829,Tri putri Mentari,05-Need Attention,Paket 6 Bulan Flash Sale Akhir Bulan,148,2,250000
+1226766,Kang Diki,05-Need Attention,MTQ 3.3 (1 Tahun),134,1,270000
+1225108,Rofi Widinugraha,05-Need Attention,Qaraa PRO 1 Bulan,140,1,50000
+935876,Nunung Kasanah,05-Need Attention,Qaraa PRO 1 Bulan,160,1,50000
+1217120,Inang Djafairy,05-Need Attention,Qara'a PRO 6 Bulan Spesial Ulang Tahun,152,1,125000
+1215582,Eka Mirwansyah,05-Need Attention,Upgrade Qara'a PRO 1 Tahun,174,2,519000
+1215582,Eka Mirwansyah,05-Need Attention,Flash Sale Akhir Tahun 1 Tahun,174,2,519000
+121091,Rita Oktaviana,05-Need Attention,Qara'a Flash Sale Lebaran 1 Tahun,87,1,240000
+120584,iswanto,05-Need Attention,Qaraa PRO 1 Bulan,136,1,50000
+1201814,Toska,05-Need Attention,Qaraa PRO 1 Bulan,149,1,50000
+94957,Gugun Firdaus,05-Need Attention,Qaraa PRO 1 Tahun,115,1,300000
+119566,Inggit wijayanti,05-Need Attention,Qaraa PRO 1 Bulan,127,1,50000
+1191825,Agung Putry,05-Need Attention,Flash Sale Ramadhan 6 Bulan,119,2,350000
+1190517,Fariz,05-Need Attention,Qaraa PRO 1 Tahun,122,1,300000
+1241409,Adi Hartanto,05-Need Attention,Flash Sale Ramadhan 1 Tahun,124,1,255000
+95147,+6281311007672,05-Need Attention,Qaraa PRO 1 Bulan,122,2,100000
+1258141,Muhammad Rifani,05-Need Attention,Qaraa PRO 1 Bulan,150,1,50000
+1259796,Wibisono Budhi Mulyo,05-Need Attention,Qaraa PRO 1 Tahun,168,1,300000
+1317111,Raihan Raihansya,05-Need Attention,Qaraa PRO 1 Bulan,99,1,50000
+1316816,Ibnu Khaldun,05-Need Attention,6 bulan Insya Allah #SemuaBisaNgaji,149,2,200000
+1316816,Ibnu Khaldun,05-Need Attention,1 bulan Insya Allah #SemuaBisaNgaji,149,2,200000
+1314224,AJIE GUNAWAN,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1310033,yusri N,05-Need Attention,Qaraa PRO 1 Bulan,171,1,50000
+1303672,Rafi yasmin,05-Need Attention,Qaraa PRO 1 Bulan,155,1,50000
+1295987,hasna adilah,05-Need Attention,Qaraa PRO 1 Bulan,121,1,50000
+1291577,Nisa Galuh Nurbani,05-Need Attention,Paket 6 Bulan Flash Sale Akhir Bulan,150,1,125000
+1290964,Intan Mus,05-Need Attention,Qaraa PRO 1 Tahun,177,1,300000
+1286055,Adrian Maulana,05-Need Attention,1 Tahun,105,1,200000
+1277957,Yeni Nurhidayanti,05-Need Attention,Qara'a Flash Sale Lebaran 1 Tahun,86,1,240000
+1276351,kholilah mardliyah,05-Need Attention,Qaraa PRO 1 Tahun,144,2,600000
+1266284,Gunawan Adi,05-Need Attention,1 Tahun Qara'a #JadiBerkah,103,1,270000
+1262781,Nurul Aulia Ranti,05-Need Attention,Flash Sale Ramadhan 1 Tahun,122,1,255000
+1260581,Rizal B Kurniawan,05-Need Attention,Paket 6 Bulan Flash Sale Akhir Bulan,150,1,125000
+1259429,Riff Ar,05-Need Attention,Qaraa PRO 1 Bulan,145,1,50000
+963263,Nina Nurrahma,05-Need Attention,Qaraa PRO 1 Tahun,124,1,300000
+965154,Ahmad Fauzi,05-Need Attention,Qaraa PRO 1 Tahun,152,1,300000
+97494,Nanang Samad,05-Need Attention,Qaraa PRO 1 Tahun,116,3,650000
+1083319,Ayep Welly,05-Need Attention,Qaraa PRO 1 Tahun,113,1,300000
+1081308,Rafi Naufal,05-Need Attention,Qaraa PRO 1 Bulan,119,1,50000
+1078810,Yusi Listiawati,05-Need Attention,Qaraa PRO 1 Bulan,113,1,50000
+985775,syam,05-Need Attention,Qaraa PRO 1 Bulan,153,1,50000
+106272,Trubus Galih Kuncoro,05-Need Attention,Qara'a Flash Sale Lebaran 1 Bulan,89,1,40000
+1061704,putra arkum,05-Need Attention,Qaraa PRO 3 Bulan,166,1,100000
+1058669,sumadi Lirik,05-Need Attention,Qaraa PRO 1 Tahun,144,3,900000
+1056804,Jacky J,05-Need Attention,Qaraa PRO 1 Tahun,175,1,300000
+1053751,Aksar Ahmad,05-Need Attention,Qaraa PRO 1 Bulan,151,1,50000
+1051822,Grevaldo Laksamana,05-Need Attention,Qaraa PRO 1 Bulan,163,1,50000
+1039906,Heliani Kristina,05-Need Attention,Qaraa PRO 1 Bulan,83,1,50000
+102567,Dias Prima Fadilla,05-Need Attention,6 bulan Insya Allah #SemuaBisaNgaji,158,1,150000
+1020517,nida,05-Need Attention,Qaraa PRO 1 Bulan,163,3,150000
+1012406,Siti Khadijah,05-Need Attention,Qaraa PRO 1 Bulan,177,1,50000
+1004671,Windra Hermawan,05-Need Attention,Qaraa PRO 1 Tahun,83,1,300000
+1088913,mulyadi tayeb,05-Need Attention,Qaraa PRO 1 Bulan,120,1,50000
+11001,+6282277950581,05-Need Attention,Qaraa PRO 1 Bulan,104,2,100000
+1100750,Eka Purwanto,05-Need Attention,Qaraa PRO 1 Bulan,109,2,320000
+1100750,Eka Purwanto,05-Need Attention,1 Tahun Qara'a #JadiBerkah,109,2,320000
+1185063,Naylaa,05-Need Attention,Qaraa PRO 1 Tahun,61,1,300000
+1185038,irfan rizaldi,05-Need Attention,Qaraa PRO 1 Tahun,119,1,300000
+1181917,annisa zulfa,05-Need Attention,Qaraa PRO 1 Tahun,173,1,300000
+1181255,Lilis,05-Need Attention,1 Tahun Qara'a #JadiBerkah,105,1,270000
+97494,Nanang Samad,05-Need Attention,Qaraa PRO 1 Bulan,116,3,650000
+1167007,Tee Mici,05-Need Attention,Qaraa PRO 1 Tahun,169,1,300000
+1165294,darul ahmad,05-Need Attention,Qaraa PRO 1 Tahun,156,2,600000
+1317611,@younghafidzhah15,05-Need Attention,Qaraa PRO 1 Bulan,64,2,100000
+1138567,Tuty Nurdjanah,05-Need Attention,Qaraa PRO 3 Bulan,117,1,100000
+1134813,Anisa Nur Farida,05-Need Attention,Qaraa PRO 1 Tahun,110,3,900000
+1130869,Rachma wati,05-Need Attention,Qara'a Flash Sale Lebaran 1 Bulan,85,1,40000
+1127886,Ira Rosanti,05-Need Attention,Paket 6 Bulan Flash Sale Akhir Bulan,154,1,125000
+1112517,FERY HERMAWAN,05-Need Attention,Qaraa PRO 1 Tahun,132,1,300000
+1106960,Ziu Zhang,05-Need Attention,Qaraa PRO 1 Tahun,103,1,300000
+1106807,Fachruzy Firza,05-Need Attention,Qaraa PRO 1 Tahun,111,1,300000
+97790,Jaka saputra,05-Need Attention,Qaraa PRO 1 Bulan,121,1,50000
+1136870,Ummu Maryam,05-Need Attention,Qaraa PRO 1 Bulan,142,2,100000
+1475311,Annisar,05-Need Attention,Flash Sale Akhir Tahun 1 Tahun,180,1,249000
+1320914,Kho Faw,05-Need Attention,Qaraa PRO 1 Tahun,130,1,300000
+1321230,Sigit Fajar Buana,05-Need Attention,Qaraa PRO 1 Bulan,137,1,50000
+1384332,Ar Ridwan Johor surabaya,05-Need Attention,Flash Sale Ramadhan 1 Tahun,123,1,255000
+8469,tri,05-Need Attention,Qaraa PRO 1 Bulan,88,3,150000
+847,Maska Kampari,05-Need Attention,Qaraa PRO 1 Tahun,126,1,300000
+1380941,Muhammad syaiful,05-Need Attention,Qaraa PRO 1 Bulan,109,1,50000
+1379872,Aldi S A,05-Need Attention,Qaraa PRO 1 Tahun,102,1,300000
+1379434,dian safitri,05-Need Attention,Qaraa PRO 1 Bulan,169,1,50000
+856009,Sahriza Nasution,05-Need Attention,Qaraa PRO 1 Tahun,68,1,300000
+1377416,Naina Fadhilah,05-Need Attention,Qaraa PRO 1 Bulan,142,3,150000
+1375392,Abdulmufti,05-Need Attention,Qaraa PRO 1 Bulan,180,1,50000
+1373894,Farhan,05-Need Attention,Qaraa PRO 1 Tahun,109,1,300000
+867261,umi Dwi lestari,05-Need Attention,Qaraa PRO 1 Tahun,178,1,300000
+1372889,Dini Nurbayanti,05-Need Attention,Qaraa PRO 3 Bulan,163,1,100000
+1372573,Iwan,05-Need Attention,Qaraa PRO 1 Bulan,74,2,100000
+1372070,Ratih Rosida Sari,05-Need Attention,Qaraa PRO 1 Tahun,108,1,300000
+1370783,Yang Nurhayati,05-Need Attention,Qaraa PRO 1 Tahun,140,1,300000
+1385958,Sugian Noor,05-Need Attention,Flash Sale Akhir Tahun 1 Tahun,180,1,249000
+1370761,Nila Trilia Sari,05-Need Attention,Qaraa PRO 1 Bulan,121,1,50000
+1387513,Yunita Dewi Anggraeni,05-Need Attention,1 Tahun Qara'a #JadiBerkah,139,1,270000
+1389513,Yunus,05-Need Attention,Qaraa PRO 1 Tahun,163,1,300000
+81664,Rahmat Syahputra,05-Need Attention,Qaraa PRO 1 Bulan,107,1,50000
+1395988,zahra,05-Need Attention,Qaraa PRO 1 Bulan,135,1,50000
+826461,Aprieni Alsan Batubara,05-Need Attention,Qaraa PRO 1 Tahun,121,1,300000
+1394159,Hajon Mahdy Mahmudin,05-Need Attention,Qaraa PRO 1 Tahun,75,1,300000
+1393835,Herda Ningsih,05-Need Attention,Qaraa PRO 1 Bulan,117,1,50000
+1393248,daroni mustofa,05-Need Attention,Paket 6 Bulan Flash Sale Akhir Bulan,153,2,395000
+1393248,daroni mustofa,05-Need Attention,1 tahun Insya Allah #SemuaBisaNgaji,153,2,395000
+1392798,Ananda Zahra,05-Need Attention,Qaraa PRO 1 Bulan,93,1,50000
+1392503,Putri Dista Ananda,05-Need Attention,Qaraa PRO 1 Bulan,115,2,100000
+1391121,abd.rahman,05-Need Attention,Qaraa PRO 1 Bulan,126,1,50000
+1390452,nitnistaa,05-Need Attention,1 bulan Insya Allah #SemuaBisaNgaji,162,1,50000
+831672,Rusmala teacher,05-Need Attention,Qaraa PRO 1 Tahun,172,1,300000
+839481,Faisal Amir,05-Need Attention,Qaraa PRO 1 Bulan,134,1,50000
+844494,Amel Krisandaresta,05-Need Attention,Qaraa PRO 3 Bulan,75,1,100000
+1389699,Trias Nur Rahman,05-Need Attention,Qaraa PRO 1 Bulan,71,1,50000
+1387873,Ikhsan Kmy4,05-Need Attention,Qaraa PRO 1 Bulan,105,1,50000
+1370729,jordy yansyah,05-Need Attention,Qaraa PRO 1 Bulan,117,1,50000
+1369257,Nur Azizah,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1368763,Mardiana,05-Need Attention,Qaraa PRO 6 Bulan,147,1,250000
+133248,Prihantari Pipuk,05-Need Attention,Flash Sale Akhir Tahun 1 Tahun,181,1,249000
+1332116,Reynaldi Akbar,05-Need Attention,Qaraa PRO 1 Bulan,173,2,100000
+890539,Amir Latif,05-Need Attention,Qaraa PRO 1 Tahun,74,3,900000
+89357,+6283170748688,05-Need Attention,Qaraa PRO 1 Bulan,116,2,100000
+895487,Thosan Girisona Suganda,05-Need Attention,Qaraa PRO 1 Tahun,163,1,300000
+1329031,Istiqomah Nur 'Aini,05-Need Attention,Paket 1 Tahun Flash Sale Akhir Bulan,151,1,255000
+1326080,fajar nugraha,05-Need Attention,Qara'a Family Ngaji Merdeka,150,3,299800
+1326080,fajar nugraha,05-Need Attention,Qara'a Family Diskon,150,3,299800
+1326080,fajar nugraha,05-Need Attention,Paket Qara’a Family Flash Sale Akhir Bulan,150,3,299800
+1324897,Nabila Rifki S,05-Need Attention,Qaraa PRO 1 Bulan,95,1,50000
+1324257,NATASYA ANGGRAINI,05-Need Attention,Qaraa PRO 1 Bulan,88,2,350000
+1324257,NATASYA ANGGRAINI,05-Need Attention,Qaraa PRO 1 Tahun,88,2,350000
+1323603,Muhammad Gustav Deden's son,05-Need Attention,1 Tahun Teladan Qur'an,118,1,300000
+1323329,Paijo Kustaman,05-Need Attention,Qaraa PRO 1 Tahun,122,1,300000
+1322441,Idhaam ajis,05-Need Attention,Qaraa PRO 1 Bulan,165,1,50000
+880308,Habib bahar,05-Need Attention,Qaraa PRO 1 Tahun,173,1,300000
+1337061,Sutejo Tejo,05-Need Attention,Qaraa PRO 3 Bulan,151,1,100000
+1340247,Muharris Nurul Hakim,05-Need Attention,Qaraa PRO 1 Bulan,154,1,50000
+1340468,ikhsan interior Channel,05-Need Attention,Qaraa PRO 1 Tahun,134,1,300000
+1367828,Muh. Wira,05-Need Attention,Qaraa PRO 1 Bulan,122,1,50000
+1367348,Ahmad Nasir Hasan,05-Need Attention,Qaraa PRO 1 Bulan,175,1,50000
+1356672,Wempie Yuliane,05-Need Attention,Qaraa PRO 3 Bulan,166,1,100000
+1356645,Nuryani Tz,05-Need Attention,Qaraa PRO 1 Tahun,94,1,300000
+878899,Anas Tasya,05-Need Attention,Qaraa PRO 1 Tahun,150,2,600000
+1354483,Salat Roy,05-Need Attention,Qaraa PRO 1 Tahun,147,1,300000
+1348756,Vio Yoga Satya,05-Need Attention,6 bulan Insya Allah #SemuaBisaNgaji,159,1,150000
+1321151,Muhammad Subhi,05-Need Attention,Qara'a Flash Sale Lebaran 1 Tahun,86,1,240000
+1348699,novita utami,05-Need Attention,Qaraa PRO 1 Bulan,93,1,50000
+1345464,Mahesa Danuarta,05-Need Attention,1 Bulan Qara'a #JadiBerkah,95,1,45000
+1344774,Chusnul Khotimah,05-Need Attention,Qaraa PRO 1 Tahun,116,3,900000
+134434,Iksan Taupik,05-Need Attention,Qaraa PRO 3 Bulan,117,1,100000
+134414,Yanti Novita,05-Need Attention,Qaraa PRO 1 Bulan,151,1,50000
+1344051,"Muhammad Wahyudi, S.Pd.I.",05-Need Attention,Qaraa PRO 1 Bulan,174,1,50000
+1343798,Iszudin Sumarno,05-Need Attention,Qaraa PRO 1 Bulan,105,1,50000
+1341571,Arif Muhammad,05-Need Attention,Qaraa PRO 1 Bulan,124,1,50000
+1345756,Muhtar Younoes,05-Need Attention,Qaraa PRO 1 Bulan,99,1,50000
+1475379,Oppo Alimatujuh,05-Need Attention,Qaraa PRO 1 Bulan,181,1,50000
+1472782,Ragil Mei Leny,05-Need Attention,Qaraa PRO 1 Bulan,178,3,150000
+1475651,Adam RJ,05-Need Attention,Flash Sale Akhir Tahun 1 Tahun,180,1,249000
+1492771,Rita Mardiani,05-Need Attention,Qaraa PRO 1 Tahun,160,1,300000
+1492516,bos marno,05-Need Attention,Qaraa PRO 1 Bulan,161,1,50000
+1492467,salwa devina,05-Need Attention,1 bulan Insya Allah #SemuaBisaNgaji,158,1,50000
+1492345,Lisy Khanza,05-Need Attention,Qaraa PRO 1 Tahun,161,1,300000
+1492335,Azalia Ramadani,05-Need Attention,Qaraa PRO 1 Tahun,161,1,300000
+1492277,SRI RAHYUTI,05-Need Attention,6 bulan Insya Allah #SemuaBisaNgaji,161,1,150000
+1492186,Kiaydemaksamsia 25,05-Need Attention,Qaraa PRO 1 Tahun,161,1,300000
+1492180,Nayla Rizqiyah,05-Need Attention,Qaraa PRO 1 Bulan,161,2,350000
+1492180,Nayla Rizqiyah,05-Need Attention,Qaraa PRO 1 Tahun,161,2,350000
+1492171,Nina Fathaherra,05-Need Attention,Qaraa PRO 1 Tahun,161,1,300000
+1492069,rizma Vi,05-Need Attention,6 bulan Insya Allah #SemuaBisaNgaji,159,1,150000
+1491863,Regha Yufernanda,05-Need Attention,6 bulan Insya Allah #SemuaBisaNgaji,161,1,150000
+734537,ANDRI SETYAWAN MUHAMMAAD,05-Need Attention,Qaraa PRO 1 Bulan,116,1,50000
+735793,Ayunda,05-Need Attention,Flash Sale Akhir Tahun 1 Tahun,179,1,249000
+738423,Kadarmanto BPS,05-Need Attention,Paket 1 Tahun Flash Sale Akhir Bulan,155,1,255000
+1492889,Sunarti Sunarti,05-Need Attention,Qaraa PRO 1 Bulan,158,1,50000
+1491552,Mayang Sari,05-Need Attention,Qaraa PRO 1 Bulan,107,1,50000
+1492899,Putri Lathiifa Bahar,05-Need Attention,Qaraa PRO 1 Bulan,127,2,100000
+1492982,Hey Asisa,05-Need Attention,Qaraa PRO 1 Tahun,160,1,300000
+1493457,Rika Saprika,05-Need Attention,1 bulan Insya Allah #SemuaBisaNgaji,160,1,50000
+1493403,fadillah adam,05-Need Attention,Qaraa PRO 1 Tahun,65,1,300000
+1493393,Seli Aja,05-Need Attention,Qaraa PRO 6 Bulan,159,3,800000
+1493393,Seli Aja,05-Need Attention,Qaraa PRO 1 Tahun,159,3,800000
+1493345,Reza Rachmadiawan,05-Need Attention,Qaraa PRO 1 Bulan,160,1,50000
+729093,toriq kalijaga,05-Need Attention,Qaraa PRO 1 Bulan,144,2,100000
+733262,ahmad berlian,05-Need Attention,Promo Ramadhan 6 Bulan Qara'a PRO,106,1,175000
+1493281,Dede Rini Rohmaeni,05-Need Attention,Qaraa PRO 1 Tahun,160,1,300000
+1493205,Maryam Ruslan,05-Need Attention,1 tahun Insya Allah #SemuaBisaNgaji,160,1,270000
+1493198,la ode muhamad rasyid,05-Need Attention,Qaraa PRO 3 Bulan,160,2,150000
+1493198,la ode muhamad rasyid,05-Need Attention,Qaraa PRO 1 Bulan,160,2,150000
+1493094,Ananda pribadi Setiawan,05-Need Attention,6 bulan Insya Allah #SemuaBisaNgaji,158,2,200000
+1493094,Ananda pribadi Setiawan,05-Need Attention,1 bulan Insya Allah #SemuaBisaNgaji,158,2,200000
+1493055,Amar suadi,05-Need Attention,6 bulan Insya Allah #SemuaBisaNgaji,160,1,150000
+1493047,Hepy,05-Need Attention,Qaraa PRO 1 Bulan,160,1,50000
+1492928,Busnar Jamaran,05-Need Attention,Qaraa PRO 1 Bulan,158,1,50000
+1491535,Muhammad Labib,05-Need Attention,Qaraa PRO 1 Bulan,161,1,50000
+1491378,Dina Herdiana,05-Need Attention,Paket 1 Tahun Flash Sale Akhir Bulan,154,1,255000
+1491247,Ziellena Aisyah,05-Need Attention,Qaraa PRO 1 Tahun,162,1,300000
+1489006,Amanda Chyka,05-Need Attention,Qaraa PRO 1 Tahun,163,1,300000
+1488760,Syamsul Aziz,05-Need Attention,Qaraa PRO 1 Tahun,126,1,300000
+1488745,Musda 1996,05-Need Attention,Qaraa PRO 1 Tahun,164,1,300000
+1488696,hafidah abdullah,05-Need Attention,Qaraa PRO 3 Bulan,161,2,150000
+1488696,hafidah abdullah,05-Need Attention,Qaraa PRO 1 Bulan,161,2,150000
+1488664,Mustajir Mustajir,05-Need Attention,Qaraa PRO 1 Bulan,164,1,50000
+1488504,Roby Ihsan,05-Need Attention,Flash Sale Ramadhan 1 Bulan,127,2,95000
+1488504,Roby Ihsan,05-Need Attention,1 Bulan Qara'a #JadiBerkah,127,2,95000
+752270,nanangsupriatna0207@gmail.com,05-Need Attention,Qaraa PRO 1 Bulan,123,1,50000
+755866,Irvan Syahputra,05-Need Attention,Qaraa PRO 1 Bulan,120,1,50000
+1487993,Dominick Noah,05-Need Attention,Qaraa PRO 1 Tahun,164,1,300000
+1487878,Prasetyo A.T,05-Need Attention,Qaraa PRO 1 Tahun,165,1,300000
+1487831,B1_Nanien Wulandari,05-Need Attention,Qaraa PRO 1 Bulan,165,2,350000
+1487831,B1_Nanien Wulandari,05-Need Attention,Qaraa PRO 1 Tahun,165,2,350000
+1487582,Keisha Azzalea putri,05-Need Attention,Qaraa PRO 1 Bulan,163,1,50000
+1489294,Musfira Afdillah Hamsir,05-Need Attention,1 bulan Insya Allah #SemuaBisaNgaji,162,1,50000
+1489298,Rudi Maulana,05-Need Attention,Qaraa PRO 1 Tahun,164,1,300000
+1489402,88 Ponsel,05-Need Attention,Qaraa PRO 1 Bulan,163,1,50000
+1489552,zainal alim,05-Need Attention,Qaraa PRO 3 Bulan,155,2,200000
+1491237,Sifa Aulia,05-Need Attention,Qaraa PRO 1 Tahun,159,1,300000
+1491147,fitri asaad,05-Need Attention,6 bulan Insya Allah #SemuaBisaNgaji,161,1,150000
+1491021,Mares,05-Need Attention,Qaraa PRO 1 Tahun,162,1,300000
+1490646,Indra Abu,05-Need Attention,6 bulan Insya Allah #SemuaBisaNgaji,161,1,150000
+1490645,Ris Kia,05-Need Attention,1 bulan Insya Allah #SemuaBisaNgaji,162,1,50000
+1490643,Sutriyana,05-Need Attention,Qaraa PRO 1 Bulan,162,1,50000
+1490473,Amaliah Yuhana,05-Need Attention,Qaraa PRO 1 Bulan,162,1,50000
+1493467,#st.khairunn nisa,05-Need Attention,Qaraa PRO 1 Tahun,160,1,300000
+1490343,Nilla Utami,05-Need Attention,Qaraa PRO 1 Tahun,163,1,300000
+1490298,nuril,05-Need Attention,Qaraa PRO 1 Bulan,163,2,350000
+1489998,Moh Wandi,05-Need Attention,Qaraa PRO 1 Bulan,163,3,150000
+1489826,Adinda Putri,05-Need Attention,Qaraa PRO 1 Tahun,163,1,300000
+1489743,Edy Baryadi,05-Need Attention,Qaraa PRO 1 Tahun,160,3,900000
+1475648,La Ode,05-Need Attention,Qaraa PRO 3 Bulan,180,1,100000
+1489737,Gempa Bumi,05-Need Attention,Qaraa PRO 1 Tahun,163,1,300000
+1489587,Khalisa Asyabiya,05-Need Attention,Qaraa PRO 1 Bulan,163,1,50000
+1490298,nuril,05-Need Attention,Qaraa PRO 1 Tahun,163,2,350000
+1487563,Gianti Gito,05-Need Attention,Qaraa PRO 1 Tahun,165,1,300000
+1493645,Nani 24,05-Need Attention,Qaraa PRO 1 Tahun,160,1,300000
+1493750,Karima Kaustsar,05-Need Attention,Qaraa PRO 1 Bulan,160,1,50000
+1497724,ica lovely,05-Need Attention,Qaraa PRO 1 Bulan,121,1,50000
+1497703,3 Desem,05-Need Attention,Qaraa PRO 1 Bulan,156,2,100000
+1497553,Evie Effendi,05-Need Attention,Qaraa PRO 1 Bulan,156,3,150000
+1497410,Rizki aryasuta Mangunwidjojo,05-Need Attention,Qaraa PRO 1 Tahun,156,1,300000
+1497380,Adam Ayyubi,05-Need Attention,Qaraa PRO 1 Bulan,103,2,100000
+1497365,daniell humandah,05-Need Attention,Qaraa PRO 1 Bulan,156,2,350000
+1497365,daniell humandah,05-Need Attention,Qaraa PRO 1 Tahun,156,2,350000
+1497319,Ahlam Aqeel Kondau,05-Need Attention,Paket 1 Bulan Flash Sale Akhir Bulan,151,1,50000
+1497276,heru yoga,05-Need Attention,Qaraa PRO 1 Bulan,105,1,50000
+1497252,syafaruddin jannaya,05-Need Attention,Qaraa PRO 1 Bulan,146,1,50000
+1497224,Rani Sara,05-Need Attention,Qaraa PRO 1 Tahun,156,1,300000
+1497204,buku Digital,05-Need Attention,Qaraa PRO 1 Bulan,156,1,50000
+1497188,Nita Emuliastuti,05-Need Attention,Paket 6 Bulan Flash Sale Akhir Bulan,154,1,125000
+1497078,Citra Diah Kusumawardani,05-Need Attention,Paket 1 Bulan Flash Sale Akhir Bulan,154,1,50000
+1497043,Abjan Manaf,05-Need Attention,Qaraa PRO 1 Tahun,156,1,300000
+1497739,TasbitaKamillah Zidna,05-Need Attention,Qaraa PRO 1 Tahun,156,3,650000
+1497029,jo Tbn,05-Need Attention,Qaraa PRO 1 Tahun,156,1,300000
+1497739,TasbitaKamillah Zidna,05-Need Attention,Qaraa PRO 1 Bulan,156,3,650000
+1497778,Erniyati Iman,05-Need Attention,Qaraa PRO 1 Bulan,156,1,50000
+1499649,Zainuddin Wasito,05-Need Attention,Paket 1 Tahun Flash Sale Akhir Bulan,154,1,255000
+1499469,Muhammad Maulana,05-Need Attention,Qaraa PRO 1 Tahun,154,1,300000
+1499447,Cintya CL,05-Need Attention,Paket 1 Bulan Flash Sale Akhir Bulan,152,1,50000
+1499148,Sumiatik 99,05-Need Attention,Qaraa PRO 1 Bulan,154,1,50000
+1499100,Nandar Mks,05-Need Attention,Paket 1 Bulan Flash Sale Akhir Bulan,154,1,50000
+1499042,Althaf,05-Need Attention,Qaraa PRO 1 Bulan,154,1,50000
+1499025,jihad,05-Need Attention,Qaraa PRO 1 Tahun,154,1,300000
+1499001,Fauzainy My,05-Need Attention,Qaraa PRO 1 Tahun,155,1,300000
+1498726,Reva Naura  ramadhan,05-Need Attention,Qaraa PRO 1 Tahun,155,1,300000
+1498659,Fika Tungkal,05-Need Attention,Qaraa PRO 1 Tahun,155,1,300000
+1498363,Ipan Ependi,05-Need Attention,Qaraa PRO 1 Bulan,145,1,50000
+1498140,Musnaeni Salam,05-Need Attention,Qaraa PRO 1 Bulan,151,1,50000
+1498132,Bambang TUT,05-Need Attention,Qaraa PRO 1 Bulan,147,1,50000
+1497844,Kia Sur,05-Need Attention,Qaraa PRO 1 Tahun,156,1,300000
+1497783,Yanti Abid,05-Need Attention,Qaraa PRO 1 Tahun,156,1,300000
+1497746,Sela zelikha Zelikha,05-Need Attention,1 Bulan Qara'a #JadiBerkah,133,1,50000
+1496968,Serang Hijau,05-Need Attention,Qaraa PRO 1 Tahun,156,1,300000
+1496721,Alfitsani Zikra,05-Need Attention,Qaraa PRO 1 Bulan,157,1,50000
+1496683,Elva mikirin,05-Need Attention,Qaraa PRO 1 Tahun,157,2,350000
+1494933,Ahmad Kamel,05-Need Attention,Qaraa PRO Family 1 tahun,110,2,949000
+1494933,Ahmad Kamel,05-Need Attention,Qaraa PRO 1 Tahun,110,2,949000
+1494917,Jamauka Aina,05-Need Attention,Qaraa PRO 1 Bulan,158,1,50000
+1494774,Nurdin dly,05-Need Attention,Qaraa PRO 1 Tahun,159,1,300000
+1494736,Abdul Aswar,05-Need Attention,6 bulan Insya Allah #SemuaBisaNgaji,156,1,150000
+1494729,Abizar Rasydan TR,05-Need Attention,Qaraa PRO 1 Tahun,110,1,300000
+1494527,Komariah Ummu Hana,05-Need Attention,Qaraa PRO 1 Tahun,151,1,300000
+1494526,SERADINATA,05-Need Attention,Qaraa PRO 1 Bulan,159,1,50000
+1494502,afika,05-Need Attention,Qaraa PRO 1 Bulan,159,1,50000
+1494426,Udin Safarudin,05-Need Attention,Qaraa PRO 1 Bulan,158,1,50000
+1494376,umar binkhattab,05-Need Attention,Qaraa PRO 1 Bulan,150,1,50000
+1494351,Usman Men,05-Need Attention,Qaraa PRO 1 Bulan,159,1,50000
+1494339,Akun server Thailand,05-Need Attention,Qaraa PRO 1 Tahun,159,1,300000
+1493944,Mariam,05-Need Attention,Qaraa PRO 1 Bulan,158,1,50000
+1493827,Salsa Billa,05-Need Attention,Qaraa PRO 6 Bulan,159,1,250000
+1495518,ArYo Rudyanoor,05-Need Attention,1 tahun Insya Allah #SemuaBisaNgaji,158,1,270000
+1495536,Nasifa Sifa,05-Need Attention,Qaraa PRO 1 Tahun,158,1,300000
+1495553,Adik Azril,05-Need Attention,Qaraa PRO 1 Tahun,158,1,300000
+1495661,Astika Buton,05-Need Attention,Qaraa PRO 1 Bulan,152,1,50000
+1496683,Elva mikirin,05-Need Attention,Qaraa PRO 1 Bulan,157,2,350000
+1496602,Fika Fizah,05-Need Attention,Qaraa PRO 1 Bulan,157,1,50000
+720748,Muhammad Nouval Isnin Akbari,05-Need Attention,Qaraa PRO Family 6 bulan,135,1,447000
+1496441,ILda Smart,05-Need Attention,Qaraa PRO 1 Tahun,157,1,300000
+1496289,Hamba Dhaif,05-Need Attention,Qaraa PRO 1 Tahun,157,1,300000
+1496287,Adit Riski,05-Need Attention,Qaraa PRO 1 Tahun,157,1,300000
+728903,yuli armini,05-Need Attention,Qaraa PRO 1 Bulan,132,3,150000
+1493673,Afran Mmj,05-Need Attention,Qaraa PRO 1 Tahun,155,1,300000
+1496263,CHOIRUL ROMADHONI,05-Need Attention,Qaraa PRO 1 Tahun,153,1,300000
+1496238,Ratna Kiayi,05-Need Attention,Qaraa PRO 1 Tahun,145,1,300000
+1496134,arif gunawan,05-Need Attention,Qaraa PRO 1 Bulan,119,1,50000
+1496133,Misna nana,05-Need Attention,Qara'a Flash Sale Lebaran 1 Bulan,89,2,90000
+1496133,Misna nana,05-Need Attention,Qaraa PRO 1 Bulan,89,2,90000
+1496050,Robby Ramdanie,05-Need Attention,Qaraa PRO 1 Bulan,157,1,50000
+1495698,Dwi Septiaji,05-Need Attention,Qaraa PRO 1 Tahun,158,1,300000
+1495666,cia clarryna putri aurora,05-Need Attention,Qaraa PRO 1 Tahun,158,1,300000
+1496239,Klak Wheels30,05-Need Attention,Qaraa PRO 1 Bulan,156,1,50000
+1487503,Izal Fazr,05-Need Attention,Paket 1 Bulan Flash Sale Akhir Bulan,153,1,50000
+400576,Tri Setya Handaka,05-Need Attention,1 Tahun Qara'a #JadiBerkah,97,1,270000
+1480249,Erwin Apriansyah,05-Need Attention,Qaraa PRO 1 Bulan,170,3,150000
+1476521,Diana Prastiwi M.S.,05-Need Attention,Paket Qara’a Family Flash Sale Akhir Bulan,121,2,254400
+1476521,Diana Prastiwi M.S.,05-Need Attention,Qara'a Family #JadiBerkah,121,2,254400
+1476481,Siti Pku,05-Need Attention,Qaraa PRO 1 Tahun,176,1,300000
+1487394,Sugiyanto Kenz,05-Need Attention,Qaraa PRO 1 Bulan,165,1,50000
+1480326,Chris Syahril Saputra (Syahril Puth),05-Need Attention,Qaraa PRO 1 Bulan,170,1,50000
+1476360,David Firmansyah,05-Need Attention,Qaraa PRO 1 Tahun,178,1,300000
+1480589,Ahmad Rusli,05-Need Attention,Qaraa PRO 1 Bulan,170,1,50000
+1476277,Bella Namira,05-Need Attention,Qaraa PRO 1 Tahun,145,2,600000
+1480596,Sri Dawati,05-Need Attention,Qaraa PRO 1 Bulan,170,1,50000
+1476183,Wartiah,05-Need Attention,Qaraa PRO 1 Tahun,96,1,300000
+1480670,Shita,05-Need Attention,Qaraa PRO 1 Bulan,144,1,50000
+1480796,Putri 3N,05-Need Attention,Qaraa PRO 1 Bulan,135,1,50000
+1476166,INNI MUTMAINNAH,05-Need Attention,Qaraa PRO 1 Tahun,179,1,300000
+1480834,retfa aulyanita,05-Need Attention,Qaraa PRO 1 Bulan,170,1,50000
+1481164,Counter Nalu,05-Need Attention,Qaraa PRO 1 Bulan,170,1,50000
+1481169,Alkababy Ku,05-Need Attention,Qaraa PRO 1 Bulan,159,1,50000
+1481275,Icha Nuraini,05-Need Attention,Qaraa PRO 1 Bulan,170,1,50000
+1482170,Fikru Lubis,05-Need Attention,Qaraa PRO 1 Bulan,169,1,50000
+1479078,Hikmah Idris,05-Need Attention,Qaraa PRO 1 Tahun,171,1,300000
+1476102,Bianda Saputra,05-Need Attention,Qaraa PRO 1 Tahun,179,1,300000
+1482081,Noni Fajrianita,05-Need Attention,Qaraa PRO 1 Bulan,158,1,50000
+1476104,Suryanto Ibnu Ahmad,05-Need Attention,Qaraa PRO 1 Tahun,179,1,300000
+1482054,Sun Nen,05-Need Attention,Qaraa PRO 1 Tahun,169,1,300000
+1476821,Aliya Nabila zahra,05-Need Attention,Qaraa PRO 1 Tahun,176,1,300000
+763,Budi,05-Need Attention,Qaraa PRO 1 Bulan,105,3,150000
+1481841,Hamida hamida,05-Need Attention,Qaraa PRO 1 Tahun,169,1,300000
+763409,Fari Yadi,05-Need Attention,Qaraa PRO 1 Tahun,71,1,300000
+1481424,Akbar Gustomi,05-Need Attention,Qaraa PRO 1 Tahun,170,1,300000
+1481423,Ananda rizki rahmania,05-Need Attention,Paket 6 Bulan Flash Sale Akhir Bulan,152,1,125000
+1481403,Tarinta Shop,05-Need Attention,6 bulan Insya Allah #SemuaBisaNgaji,168,2,200000
+1481403,Tarinta Shop,05-Need Attention,Qaraa PRO 1 Bulan,168,2,200000
+1476165,Asmirandah,05-Need Attention,Qaraa PRO 1 Bulan,179,1,50000
+1476871,sari ningsih,05-Need Attention,Qaraa PRO 1 Bulan,176,1,50000
+1480121,Antoni,05-Need Attention,Qaraa PRO 1 Tahun,169,1,300000
+1480070,Aditya Noval hamizan,05-Need Attention,Qaraa PRO 1 Bulan,171,1,50000
+1478349,Muhammad Syarqowi,05-Need Attention,Qaraa PRO 1 Tahun,172,1,300000
+1478385,ady wong,05-Need Attention,Qaraa PRO 1 Tahun,159,1,300000
+1478519,Amel Amelia,05-Need Attention,Qaraa PRO 1 Bulan,156,2,100000
+1478644,rizz 0408,05-Need Attention,Qaraa PRO 1 Tahun,172,1,300000
+1478896,"Fadly SM Latara,ST",05-Need Attention,Qaraa PRO 1 Bulan,111,1,50000
+1478942,Uum Sukmara,05-Need Attention,Paket 1 Bulan Flash Sale Akhir Bulan,153,1,50000
+1478307,Rahma Kusnul kotimah,05-Need Attention,Qaraa PRO 1 Bulan,172,1,50000
+1479517,Shofil Widad,05-Need Attention,Qaraa PRO 1 Tahun,169,1,300000
+1479014,uwon abu farid,05-Need Attention,Qaraa PRO 1 Bulan,171,1,50000
+1479359,Tai Kuceng,05-Need Attention,Qaraa PRO 1 Tahun,171,2,600000
+1479292,Syavia Mya,05-Need Attention,Qaraa PRO 1 Bulan,171,1,50000
+1479272,Nizam Athafariz,05-Need Attention,Qaraa PRO 1 Bulan,171,1,50000
+1479266,virza fathia kanza,05-Need Attention,Qaraa PRO 1 Tahun,170,1,300000
+1479161,Sony Winarko,05-Need Attention,Qaraa PRO 1 Tahun,171,1,300000
+1479003,Meisya safa,05-Need Attention,Qaraa PRO 1 Tahun,171,1,300000
+147607,Happy Nursalisa,05-Need Attention,Flash Sale Akhir Tahun 1 Tahun,180,2,299000
+1478238,Bella Setabillah,05-Need Attention,6 bulan Insya Allah #SemuaBisaNgaji,172,1,150000
+1477958,Davian Bahir,05-Need Attention,Qaraa PRO 1 Bulan,172,1,50000
+1479789,Bapak Gembel,05-Need Attention,Qaraa PRO 1 Bulan,171,1,50000
+1476959,Lili Triana,05-Need Attention,Qaraa PRO 1 Bulan,176,1,50000
+1477001,Aku Bukan Programmer,05-Need Attention,Qaraa PRO 1 Bulan,175,1,50000
+1477260,Hafshah,05-Need Attention,Qaraa PRO 1 Bulan,174,1,50000
+1477263,Priyantini K,05-Need Attention,Qaraa PRO 1 Bulan,174,1,50000
+1477323,Shafira Najmi Tamara,05-Need Attention,6 Bulan Qara'a #JadiBerkah,133,1,150000
+1478131,Aldi All,05-Need Attention,Qaraa PRO 1 Tahun,172,1,300000
+1477382,Siti  Halimah,05-Need Attention,1 tahun Insya Allah #SemuaBisaNgaji,166,1,270000
+1477416,Yuliyanda 10,05-Need Attention,1 bulan Insya Allah #SemuaBisaNgaji,165,3,150000
+1477470,Muhaimin Alhana,05-Need Attention,Qaraa PRO 1 Tahun,168,3,700000
+1477470,Muhaimin Alhana,05-Need Attention,Qaraa PRO 3 Bulan,168,3,700000
+1477828,Keona Qanita Ramadhani,05-Need Attention,Qaraa PRO 1 Bulan,173,1,50000
+1477858,Addina Hanifa,05-Need Attention,Qaraa PRO 1 Bulan,173,1,50000
+1477895,Yuliza Utami,05-Need Attention,Paket 6 Bulan Flash Sale Akhir Bulan,152,1,125000
+1479556,savitri prameswari,05-Need Attention,Qaraa PRO 1 Bulan,163,1,50000
+1482208,Iko Zahra ferdiyana,05-Need Attention,Qaraa PRO 1 Bulan,147,1,50000
+1482096,Nia Kusnia,05-Need Attention,Qaraa PRO 1 Bulan,167,1,50000
+1482644,Gunawan Gunawan,05-Need Attention,Qaraa PRO 6 Bulan,169,1,250000
+1486026,tian dr,05-Need Attention,Qaraa PRO 1 Tahun,165,1,300000
+1475921,Nur Sholikin,05-Need Attention,Qaraa PRO 1 Bulan,179,1,50000
+1486019,Muhram,05-Need Attention,1 bulan Insya Allah #SemuaBisaNgaji,155,2,100000
+1485843,Army Poernomo,05-Need Attention,Qara'a Family Flash Sale Talaqqi,122,3,1044400
+1485843,Army Poernomo,05-Need Attention,Qaraa PRO Family 1 tahun,122,3,1044400
+1485843,Army Poernomo,05-Need Attention,Qaraa PRO 1 Tahun,122,3,1044400
+1486171,Shafa Salsabila,05-Need Attention,Qaraa PRO 1 Bulan,166,1,50000
+1485805,nella,05-Need Attention,Qaraa PRO 1 Bulan,160,1,50000
+1485494,Meimei,05-Need Attention,Paket 6 Bulan Flash Sale Akhir Bulan,150,1,125000
+1485476,Aisyah S,05-Need Attention,Qaraa PRO 1 Bulan,131,1,50000
+1484933,Ayik Munandar Sari,05-Need Attention,Qaraa PRO 1 Bulan,156,1,50000
+1484828,Abihamis Silaratubun,05-Need Attention,Qaraa PRO 1 Tahun,167,2,600000
+1484799,Achmad Alfiansyah,05-Need Attention,6 Bulan,162,2,250000
+1484799,Achmad Alfiansyah,05-Need Attention,6 bulan Insya Allah #SemuaBisaNgaji,162,2,250000
+1485763,Lilis Trirahayu,05-Need Attention,Qaraa PRO 1 Tahun,167,1,300000
+147607,Happy Nursalisa,05-Need Attention,Flash Sale Akhir Tahun 1 Bulan,180,2,299000
+1486282,Fandi Fikri,05-Need Attention,Qaraa PRO 1 Tahun,166,1,300000
+1475835,Ahmad Rijal,05-Need Attention,Qaraa PRO 1 Bulan,179,1,50000
+1475769,khadijah silkafatmi,05-Need Attention,Qaraa PRO 1 Bulan,180,1,50000
+1487029,Fajariyati,05-Need Attention,Paket 1 Bulan Flash Sale Akhir Bulan,150,1,50000
+1486904,Ainun Jariah,05-Need Attention,Qaraa PRO 1 Tahun,163,2,600000
+1486695,Riska Wati,05-Need Attention,Qaraa PRO 1 Tahun,166,1,300000
+1486643,Ummi Syarifah,05-Need Attention,1 bulan Insya Allah #SemuaBisaNgaji,166,1,50000
+1486628,Niketut Inayah,05-Need Attention,Qaraa PRO 1 Tahun,166,1,300000
+1486324,Eli Halimah,05-Need Attention,Qaraa PRO 1 Tahun,166,1,300000
+1486533,Nheng Syifa,05-Need Attention,Qaraa PRO 1 Tahun,166,1,300000
+1486439,Syifa,05-Need Attention,Qaraa PRO 1 Bulan,166,1,50000
+1486437,agam fauzi,05-Need Attention,Qaraa PRO 1 Bulan,166,2,100000
+1486423,Armely Indah sari,05-Need Attention,Qaraa PRO 1 Bulan,166,1,50000
+1475780,Vivi Novita,05-Need Attention,Qaraa PRO 1 Bulan,180,1,50000
+1475818,papah azkiyameisya,05-Need Attention,Qaraa PRO 1 Bulan,179,1,50000
+1486369,Masa Sekarang,05-Need Attention,Qaraa PRO 1 Bulan,163,1,50000
+1486456,Arfa Ramadhan,05-Need Attention,Qaraa PRO 1 Tahun,166,1,300000
+1484601,Sarinadia,05-Need Attention,Qaraa PRO 1 Tahun,167,1,300000
+1484616,Kenzi Velisa,05-Need Attention,Qaraa PRO 1 Tahun,167,1,300000
+1475948,Amah Aam,05-Need Attention,Qaraa PRO 1 Bulan,178,2,300000
+1483249,Mutmainah Mainah,05-Need Attention,Qaraa PRO 1 Tahun,169,1,300000
+1483239,Andi Purnomo,05-Need Attention,6 Bulan Qara'a Pro Flash Sale April,62,1,200000
+1483222,Wildan Ok,05-Need Attention,Qaraa PRO 1 Tahun,169,1,300000
+1483195,Armita Lulu,05-Need Attention,Qaraa PRO 1 Bulan,163,1,50000
+1475991,Yanti Herli,05-Need Attention,Qaraa PRO 1 Bulan,169,1,50000
+1483111,venny paulina,05-Need Attention,Qaraa PRO 1 Bulan,169,1,50000
+1483102,Muh Khatami,05-Need Attention,Qaraa PRO 1 Bulan,114,1,50000
+1482977,Hamka Tamher,05-Need Attention,Qaraa PRO 1 Tahun,169,1,300000
+1482975,Mawar lamasano,05-Need Attention,1 bulan Insya Allah #SemuaBisaNgaji,165,1,50000
+1476009,Baiti Burhan,05-Need Attention,Qaraa PRO 1 Tahun,167,1,300000
+1482934,ria adenin,05-Need Attention,6 bulan Insya Allah #SemuaBisaNgaji,167,1,150000
+1482878,Irfan Patra,05-Need Attention,Qaraa PRO 3 Bulan,166,1,100000
+1482746,bella Adi20,05-Need Attention,Qaraa PRO 1 Bulan,164,1,50000
+1482729,vianka aisyawari,05-Need Attention,Qaraa PRO 1 Bulan,169,1,50000
+1482663,Dede Muchsin,05-Need Attention,Qaraa PRO 1 Bulan,169,1,50000
+1475948,Amah Aam,05-Need Attention,Qaraa PRO 6 Bulan,178,2,300000
+1483299,JENI JENI,05-Need Attention,Qaraa PRO 1 Bulan,168,1,50000
+1479059,gesty dp,05-Need Attention,Qaraa PRO 1 Bulan,171,1,50000
+1483667,supatmi ut,05-Need Attention,Qaraa PRO 1 Bulan,168,1,50000
+1484535,Zahwa Dwi ramadhani,05-Need Attention,Qaraa PRO 1 Bulan,168,1,50000
+1484342,Tri Ari Ratnaningsih,05-Need Attention,Paket 1 Tahun Flash Sale Akhir Bulan,150,1,255000
+1484279,Rizkyanur Syamsy77,05-Need Attention,Qaraa PRO 1 Bulan,166,2,350000
+1484279,Rizkyanur Syamsy77,05-Need Attention,Qaraa PRO 1 Tahun,166,2,350000
+758481,Nia Kurniasih,05-Need Attention,Paket 6 Bulan Flash Sale Akhir Bulan,154,1,125000
+1484164,MUHAMMAD PRIMARISKI OKTAVIANTO,05-Need Attention,Qaraa PRO 1 Tahun,168,1,300000
+1483639,Naufal Attusi,05-Need Attention,Qaraa PRO 1 Bulan,146,1,50000
+1484040,Maisharoh,05-Need Attention,Qaraa PRO 1 Bulan,168,2,100000
+1483900,Ismail Ismail,05-Need Attention,Qaraa PRO 1 Tahun,149,1,300000
+1483890,Muhammad Agus,05-Need Attention,Qaraa PRO 1 Bulan,151,1,50000
+1483855,Edy Lawing,05-Need Attention,Qaraa PRO 1 Tahun,167,2,600000
+1483817,Sayap Kebaikan,05-Need Attention,Qaraa PRO 1 Bulan,75,1,50000
+1484013,Indra Susila,05-Need Attention,Qaraa PRO 1 Bulan,109,1,50000
+1160667,Tatang Laksamana,06-New Customers,Qaraa PRO 1 Bulan,0,1,50000
+19801,Salman Alfarisi,06-New Customers,Qaraa PRO 1 Tahun,9,1,300000
+43541,Irza Dhiarza,06-New Customers,Qaraa PRO 1 Bulan,7,1,50000
+336048,Shalahuddin Damhury,06-New Customers,1 Tahun Qara'a PRO Flash Sale Mei,22,1,240000
+1471402,Tri hastuti,06-New Customers,Qaraa PRO 1 Tahun,8,1,300000
+1096432,fahmi prasanda,06-New Customers,Qaraa PRO 1 Tahun,7,1,300000
+371259,rudy,06-New Customers,Qaraa PRO 1 Tahun,12,1,300000
+1487539,Athaya hanif Amir,06-New Customers,Paket 1 Bulan Muharram,5,1,25000
+1535545,Rizky Nirwan,06-New Customers,Qaraa PRO 1 Tahun,29,1,300000
+1580210,Sukmono,06-New Customers,Qaraa PRO 1 Bulan,29,1,50000
+1580167,Athaya HP,06-New Customers,Qaraa PRO 1 Bulan,29,1,50000
+1580155,umar utomo,06-New Customers,Qaraa PRO 1 Tahun,29,1,300000
+1580019,NINA NURRAHMA,06-New Customers,Qaraa PRO 1 Bulan,30,1,50000
+1579782,Tati Rohaeti,06-New Customers,Qaraa PRO 1 Bulan,17,1,50000
+658366,nevi suryaningsih,06-New Customers,Paket 6 Bulan Muharram,0,1,125000
+1480642,Zakiyyah Al Bana’mah,06-New Customers,Qaraa PRO 1 Bulan,26,1,50000
+704167,Faisal Dzulfikar,06-New Customers,Qaraa PRO 1 Bulan,2,1,50000
+1494173,Mas Budi,06-New Customers,Qaraa PRO 1 Bulan,2,1,50000
+1328,Ahmad fauzan,06-New Customers,Qaraa PRO 1 Bulan,24,1,50000
+543666,dewi wardini,06-New Customers,Qaraa PRO 1 Bulan,9,1,50000
+729757,Saysilia Nwvy,06-New Customers,Qaraa PRO 1 Bulan,18,1,50000
+1577899,Abdullah  Syarif,06-New Customers,Qaraa PRO 1 Tahun,20,1,300000
+1482088,Irul Rokhim,06-New Customers,Qaraa PRO 1 Bulan,20,1,50000
+562788,putri ayu Martadilla,06-New Customers,Qaraa PRO 1 Bulan,4,1,50000
+1575582,Sri Idea,06-New Customers,6 Bulan,12,1,100000
+1440025,Ahmad Kamel AA,06-New Customers,Qaraa PRO 1 Bulan,5,1,50000
+1377612,saryawati rasyid salam,06-New Customers,Qaraa PRO 1 Bulan,29,1,50000
+693906,Idrianah Amanda,06-New Customers,Paket 1 Bulan Muharram,1,1,25000
+1419495,Jamilah Svibi,06-New Customers,Qaraa PRO 1 Tahun,27,1,300000
+1568751,Fahri,06-New Customers,Qaraa PRO 1 Tahun,10,1,300000
+1570671,Zulkarnaen Syahrin,06-New Customers,Qaraa PRO Family 1 tahun,18,1,649000
+79637,Muhammad Hidayatullah,06-New Customers,Qaraa PRO 6 Bulan,11,1,250000
+705152,Rizki Candra Pratama,06-New Customers,Qaraa PRO 6 Bulan,8,1,250000
+1581008,Sales Division,06-New Customers,1 Tahun,22,1,200000
+1580302,Yoni Setiawan,06-New Customers,Qaraa PRO 1 Bulan,28,1,50000
+1581668,Aisyah Ardani,06-New Customers,Qaraa PRO Family 1 tahun,17,1,649000
+1583911,Edi nugroho,06-New Customers,Qaraa PRO 1 Bulan,0,1,50000
+1583844,atsqiyanisr,06-New Customers,Paket 1 Bulan Muharram,0,1,25000
+1583823,Isfa,06-New Customers,Qaraa PRO 1 Tahun,1,1,300000
+1583293,Eni Sumarni Nurham,06-New Customers,Qaraa PRO 1 Tahun,5,1,300000
+1583283,Ahmad Kamel,06-New Customers,Qaraa PRO 1 Bulan,5,1,99999
+1583188,Musta Firin,06-New Customers,Paket 1 Bulan Muharram,1,1,25000
+1583144,ira,06-New Customers,Qaraa PRO 1 Tahun,6,1,300000
+1583139,Musta Firin,06-New Customers,Paket 1 Bulan Muharram,6,1,25000
+1583137,Olyb de Herlino,06-New Customers,Qaraa PRO 1 Tahun,6,1,300000
+1583110,Nevi suryaningsih,06-New Customers,Paket 6 Bulan Muharram,0,1,125000
+1583105,ayyyna,06-New Customers,Qaraa PRO 1 Bulan,6,1,50000
+1388612,jati prayoga,06-New Customers,Qaraa PRO 1 Bulan,7,1,50000
+1582472,Nadia Aulia,06-New Customers,Qaraa PRO 1 Bulan,10,1,50000
+1582746,Nurhaliva,06-New Customers,Qaraa PRO 1 Tahun,9,1,300000
+1581713,Joko Susilo,06-New Customers,Qara’a Family,17,1,135000
+1582727,Isma Yunizar,06-New Customers,Qaraa PRO 1 Bulan,7,1,50000
+1581762,Nurul Huda,06-New Customers,Qaraa PRO Family,17,1,109000
+1535096,Usman Mid,06-New Customers,Qaraa PRO 1 Bulan,29,1,50000
+1581900,deila amalia,06-New Customers,Qaraa PRO 1 Tahun,16,1,300000
+1582496,Nur Okta Berliana,06-New Customers,Qaraa PRO 1 Tahun,11,1,300000
+1583101,Arswendy Helmi,06-New Customers,Qaraa PRO 1 Bulan,6,1,50000
+1582376,calon jenazah,06-New Customers,Qaraa PRO 1 Tahun,8,1,300000
+1282135,silvia chardena,06-New Customers,Paket 6 Bulan Muharram,7,1,75000
+785034,Niken Larasati,07-Promising,Qaraa PRO 1 Bulan,38,1,50000
+717449,Praptiwi,07-Promising,Qaraa PRO 1 Bulan,48,1,50000
+724303,Yudi Hermawan,07-Promising,Qaraa PRO 1 Bulan,39,1,50000
+561256,Artha Carita,07-Promising,Qaraa PRO 1 Bulan,35,1,50000
+471480,Teti Laila Adha,07-Promising,Qaraa PRO 1 Bulan,52,1,50000
+8666,Tika Mustikarani,07-Promising,Qaraa PRO 1 Bulan,48,1,50000
+674,Mirna,07-Promising,Qaraa PRO 1 Tahun,44,1,300000
+1003340,Haryanti,07-Promising,Qaraa PRO 1 Tahun,58,1,300000
+38966,SENO FERRY,07-Promising,Qaraa PRO 1 Tahun,58,1,300000
+1535936,arka,07-Promising,Qaraa PRO 1 Tahun,31,1,300000
+1555217,Harits Fahreza,07-Promising,Qaraa PRO 1 Tahun,38,1,300000
+1555814,Risya,07-Promising,Qaraa PRO 1 Bulan,46,1,50000
+1562053,Ine Septi,07-Promising,Qaraa PRO 3 Bulan,56,1,100000
+1568269,Nurul,07-Promising,Qaraa PRO Family 1 tahun,37,1,649000
+1573238,Isnaini Isnaini,07-Promising,Qaraa PRO 1 Bulan,53,1,50000
+1574116,Muhammad Nadi,07-Promising,1 Tahun Qara'a Pro Flash Sale April,57,1,240000
+1532452,Deni,07-Promising,Qaraa PRO 1 Bulan,52,1,50000
+1575135,Ivan Jazid,07-Promising,Qaraa PRO 1 Bulan,59,1,50000
+1575681,gilang,07-Promising,Qaraa PRO 1 Bulan,60,1,50000
+1575769,Abid Fadhil Setiawan,07-Promising,Qaraa PRO 1 Bulan,59,1,50000
+1575787,Agus Widi sucahyo,07-Promising,Qaraa PRO 1 Tahun,59,1,300000
+1576129,Apis Disini,07-Promising,Qaraa PRO 1 Bulan,57,1,50000
+1576360,Robi'atul Adawiyah,07-Promising,Qaraa PRO 1 Tahun,56,1,300000
+1576953,Anita Ita,07-Promising,Qaraa PRO 1 Bulan,52,1,50000
+1577124,Vlo,07-Promising,Qaraa PRO 1 Bulan,51,1,50000
+1575454,Mag Fira,07-Promising,Qaraa PRO 1 Bulan,51,1,50000
+1528094,Fitra Yandi candra,07-Promising,Qaraa PRO 1 Bulan,37,1,50000
+1523436,Tiara Sadja,07-Promising,Qaraa PRO 1 Bulan,51,1,50000
+1522923,ridho rachmaniawan,07-Promising,6 Bulan Qara'a Pro Flash Sale April,58,1,200000
+1104725,nurwati,07-Promising,Promo Istiqomah 1 Bulan Qara'a PRO,49,1,50000
+1179232,bunda rayaalma,07-Promising,Qaraa PRO 1 Bulan,37,1,50000
+1200428,Enjang Rustian,07-Promising,Qaraa PRO 1 Bulan,57,1,50000
+1322417,ummu,07-Promising,Qaraa PRO 1 Bulan,55,1,50000
+1329465,Tia Fitria,07-Promising,Qaraa PRO 1 Bulan,58,1,50000
+1356313,Aril Fadhilah,07-Promising,Qaraa PRO 1 Bulan,42,1,50000
+1373598,D-nok,07-Promising,Qaraa PRO 1 Tahun,33,1,300000
+1383254,Neng Thia,07-Promising,Qaraa PRO 1 Bulan,51,1,50000
+1383702,Ekadea Al,07-Promising,Qaraa PRO 1 Bulan,31,1,50000
+1398160,Dania Artha,07-Promising,Qaraa PRO 3 Bulan,56,1,100000
+1418372,Ibnu haris,07-Promising,Qaraa PRO 1 Bulan,39,1,50000
+1429167,Hafid Ariefianto,07-Promising,Qaraa PRO 1 Bulan,55,1,50000
+1434070,TADZKIYA,07-Promising,Qaraa PRO 1 Tahun,48,1,300000
+1448629,Diah Cahyani,07-Promising,Qaraa PRO 1 Bulan,55,1,50000
+1469554,Thalita Nabila,07-Promising,Promo Istiqomah 1 Tahun Qara'a PRO,54,1,270000
+1484238,S Yarief,07-Promising,Qaraa PRO 1 Bulan,52,1,50000
+1507265,Desi Natalia,07-Promising,Qaraa PRO 1 Bulan,45,1,50000
+1577146,Ichsan Arditia Putra (Ican),07-Promising,Qaraa PRO 1 Tahun,51,1,300000
+1577259,irvan SP,07-Promising,Promo Istiqomah 1 Tahun Qara'a PRO,46,1,270000
+1504918,Justiana,07-Promising,Qaraa PRO Family,37,1,109000
+1577338,Zidane Zakaria Fauzan,07-Promising,Qaraa PRO 1 Tahun,49,1,300000
+3333,arkan akran,07-Promising,Qaraa PRO 1 Bulan,42,1,50000
+331970,Untung Budiana,07-Promising,Qaraa PRO 1 Tahun,58,1,300000
+265702,Imas,07-Promising,Qaraa PRO 1 Bulan,59,1,50000
+1579986,arief riyadi,07-Promising,Qaraa PRO 1 Bulan,31,1,50000
+1579833,Yulianti Mubaroqah,07-Promising,Qaraa PRO 1 Bulan,32,1,50000
+1579452,Tiaa,07-Promising,Qaraa PRO 1 Bulan,35,1,50000
+1579387,Aries Tyananda,07-Promising,Qaraa PRO 1 Bulan,35,1,50000
+1579353,Retno Fitri astuti,07-Promising,Qaraa PRO 1 Bulan,36,1,50000
+1579289,Fathor Rahman,07-Promising,Flash Sale Maulid Nabi 1 Bulan,36,1,25000
+1579111,Alianwarlubis Lubis,07-Promising,1 Bulan Qara'a PRO Flash Sale Mei,34,1,50000
+1578802,Lia husriani,07-Promising,Qaraa PRO 1 Bulan,39,1,50000
+1578664,Fathor Rahman,07-Promising,Qaraa PRO 1 Bulan,36,1,50000
+1579752,Mirtha Yusnita,07-Promising,Qaraa PRO 1 Tahun,32,1,300000
+1577607,Faqih ibrahim,07-Promising,Qaraa PRO 1 Bulan,48,1,50000
+1578468,idman dota,07-Promising,Qaraa PRO 1 Bulan,32,1,50000
+1577417,Kirani Mumtaza Adiaputri,07-Promising,Qaraa PRO 1 Bulan,49,1,50000
+1577933,John Doe,07-Promising,Qaraa PRO 1 Tahun,46,1,300000
+1578061,Dyah Nurita Saraswati,07-Promising,Qaraa PRO 1 Tahun,45,1,300000
+1578650,Roki Ributtolah,07-Promising,Qaraa PRO 1 Bulan,41,1,50000
+1578462,aulia lia,07-Promising,Qaraa PRO 1 Bulan,42,1,50000
+1578522,Bramsi Prenata,07-Promising,Promo Istiqomah 1 Tahun Qara'a PRO,41,1,270000
+1578456,Mr Setiawan,07-Promising,Qaraa PRO 1 Tahun,42,1,300000
+1491740,marsuddin spd,08-At Risk,Qaraa PRO 1 Tahun,152,4,800000
+1491740,marsuddin spd,08-At Risk,Paket 6 Bulan Flash Sale Akhir Bulan,152,4,800000
+1493324,NASEHAT AKHIR ZAMAN,08-At Risk,Qaraa PRO 6 Bulan,106,4,650000
+1493324,NASEHAT AKHIR ZAMAN,08-At Risk,Qaraa PRO 1 Bulan,106,4,650000
+1493324,NASEHAT AKHIR ZAMAN,08-At Risk,Qaraa PRO 1 Tahun,106,4,650000
+3244,+6289530234530,08-At Risk,Qaraa PRO 1 Tahun,107,4,1200000
+1491740,marsuddin spd,08-At Risk,Qaraa PRO 6 Bulan,152,4,800000
+1491735,rusli,08-At Risk,6 bulan Insya Allah #SemuaBisaNgaji,155,4,525000
+524840,wasiso,08-At Risk,1 bulan Insya Allah #SemuaBisaNgaji,132,4,300000
+1488212,Ahmad Safei,08-At Risk,Qaraa PRO 1 Bulan,164,4,800000
+1488212,Ahmad Safei,08-At Risk,Qaraa PRO 6 Bulan,164,4,800000
+1482023,adela,08-At Risk,Qaraa PRO 1 Bulan,135,4,200000
+874,Nurah Anugrah,08-At Risk,Qaraa PRO 1 Bulan,106,4,200000
+1412768,Asy Syiefa,08-At Risk,Qaraa PRO 1 Bulan,127,4,200000
+1407611,diah prawitasari,08-At Risk,Paket 1 Bulan Flash Sale Akhir Bulan,147,4,200000
+1407611,diah prawitasari,08-At Risk,Qaraa PRO 1 Bulan,147,4,200000
+1389775,Khai,08-At Risk,Qara'a PRO 1 Bulan Spesial Ulang Tahun,141,4,892000
+1407611,diah prawitasari,08-At Risk,1 bulan Insya Allah #SemuaBisaNgaji,147,4,200000
+1394413,Adriyansyah,08-At Risk,Flash Sale Ramadhan 1 Bulan,127,4,195000
+823624,Wiwin Kurnia,08-At Risk,Qaraa PRO 1 Tahun,156,4,1200000
+1394413,Adriyansyah,08-At Risk,Qaraa PRO 1 Bulan,127,4,195000
+1389775,Khai,08-At Risk,Qaraa PRO Family,141,4,892000
+717651,Ali Sadikin,08-At Risk,1 tahun Insya Allah #SemuaBisaNgaji,160,4,1170000
+1491735,rusli,08-At Risk,Qara'a PRO 6 Bulan Spesial Ulang Tahun,155,4,525000
+1389775,Khai,08-At Risk,Qara’a Family 1 Tahun,141,4,892000
+1503217,Annisa qolbi,08-At Risk,Qaraa PRO 1 Tahun,150,4,700000
+1188461,Tri Wahyuni Herdini,08-At Risk,Qaraa PRO 1 Bulan,141,4,427000
+506329,putri sakinaturrohmah,08-At Risk,Qara’a Family,150,4,628500
+506329,putri sakinaturrohmah,08-At Risk,Qara'a Family,150,4,628500
+506329,putri sakinaturrohmah,08-At Risk,Qaraa PRO 1 Tahun,150,4,628500
+1188461,Tri Wahyuni Herdini,08-At Risk,Qaraa PRO Family,141,4,427000
+1188461,Tri Wahyuni Herdini,08-At Risk,Qara'a Family,141,4,427000
+717651,Ali Sadikin,08-At Risk,Qaraa PRO 1 Tahun,160,4,1170000
+1517801,Lili Meilinda,08-At Risk,Qaraa PRO 1 Bulan,117,4,200000
+1509889,Gabriel Aja,08-At Risk,Qaraa PRO 1 Bulan,136,4,200000
+1188461,Tri Wahyuni Herdini,08-At Risk,Qara'a Family #JadiBerkah,141,4,427000
+980778,4jjnrp5qyf@privaterelay.appleid.com,08-At Risk,Qaraa PRO 1 Bulan,128,4,200000
+524840,wasiso,08-At Risk,6 Bulan Qara'a #JadiBerkah,132,4,300000
+106579,putri,08-At Risk,Qaraa PRO 1 Bulan,177,4,200000
+1503217,Annisa qolbi,08-At Risk,Qaraa PRO 1 Bulan,150,4,700000
+1509889,Gabriel Aja,08-At Risk,1 Bulan Qara'a #JadiBerkah,136,4,200000
+506329,putri sakinaturrohmah,08-At Risk,Paket Qara’a Family Flash Sale Akhir Bulan,150,4,628500
+1582592,fatchur rochman,10-Hibernating,Qaraa PRO 1 Bulan,7,2,100000
+348,Sarah ulfa nesya,10-Hibernating,Qaraa PRO 1 Bulan,135,5,250000
+968652,Tasar Acca,10-Hibernating,Qaraa PRO 6 Bulan,148,6,1075000
+1582049,Sudiono 1922,10-Hibernating,Qaraa PRO 1 Bulan,2,2,100000
+34514,eva zahara,10-Hibernating,Qaraa PRO 1 Bulan,20,2,95000
+840437,Muh. Ricky Ali,10-Hibernating,Qaraa PRO 1 Tahun,56,2,500000
+968652,Tasar Acca,10-Hibernating,Qara'a Semua Bisa Ngaji 6 Bulan,148,6,1075000
+1378688,Sopiawati,10-Hibernating,1 Tahun Qara'a Pro Flash Sale April,57,2,290000
+8758,Irma simatupang,10-Hibernating,Qaraa PRO 1 Tahun,127,5,1400000
+2417,Yubi Yubi,10-Hibernating,Qaraa PRO 1 Tahun,107,5,1500000
+8758,Irma simatupang,10-Hibernating,Qaraa PRO 6 Bulan,127,5,1400000
+567348,Khoirul anrillah,10-Hibernating,Qaraa PRO 1 Bulan,181,6,300000
+968652,Tasar Acca,10-Hibernating,Upgrade Qara'a PRO 6 Bulan,148,6,1075000
+1334235,Hafizah Nida,10-Hibernating,Qaraa PRO 1 Bulan,20,2,100000
+1334235,Hafizah Nida,10-Hibernating,Promo Istiqomah 1 Bulan Qara'a PRO,20,2,100000
+968652,Tasar Acca,10-Hibernating,6 bulan Insya Allah #SemuaBisaNgaji,148,6,1075000
+1330308,Zikry,10-Hibernating,Qaraa PRO 1 Tahun,106,5,545400
+968652,Tasar Acca,10-Hibernating,Qaraa PRO 1 Tahun,148,6,1075000
+968652,Tasar Acca,10-Hibernating,Qaraa PRO 1 Bulan,148,6,1075000
+1217682,Muhammad Rendy,10-Hibernating,Qaraa PRO 1 Bulan,166,6,300000
+840437,Muh. Ricky Ali,10-Hibernating,6 Bulan Qara'a Pro Flash Sale April,56,2,500000
+1330308,Zikry,10-Hibernating,Qaraa PRO 1 Bulan,106,5,545400
+1378688,Sopiawati,10-Hibernating,Qaraa PRO 1 Bulan,57,2,290000
+1330308,Zikry,10-Hibernating,Paket Qara’a Family Flash Sale Akhir Bulan,106,5,545400
+567348,Khoirul anrillah,10-Hibernating,Flash Sale Akhir Tahun 1 Bulan,181,6,300000
+1581914,Ghisella Citra Chandra Kirana,10-Hibernating,Qaraa PRO 1 Bulan,9,2,100000
+1507126,Andinda Khairotul Zahra,10-Hibernating,Qaraa PRO 1 Tahun,114,6,1800000
+153235,nurul atikah,10-Hibernating,Qaraa PRO 1 Bulan,25,2,100000
+1532879,aris Suseno,10-Hibernating,Qaraa PRO 1 Bulan,44,2,100000
+1546881,The Sulthan Vlog,10-Hibernating,Promo Ramadhan 1 Tahun Qara'a PRO,85,4,1010000
+1546881,The Sulthan Vlog,10-Hibernating,1 Tahun Qara'a #JadiBerkah,85,4,1010000
+1546881,The Sulthan Vlog,10-Hibernating,1 Tahun,85,4,1010000
+391984,Ha.fizzah,10-Hibernating,Qaraa PRO 1 Tahun,55,2,600000
+1553785,Nafisha,10-Hibernating,Qaraa PRO 1 Bulan,26,2,100000
+1562714,Abdulah teladan,10-Hibernating,Qaraa PRO 1 Bulan,65,4,450000
+1564707,Reva Ichsan,10-Hibernating,Qaraa PRO 1 Bulan,13,2,100000
+1565091,NERRA RIZKY Gamerr,10-Hibernating,Qaraa PRO 1 Bulan,107,5,309000
+1565091,NERRA RIZKY Gamerr,10-Hibernating,Qaraa PRO Family,107,5,309000
+1565435,Xia Xia,10-Hibernating,Promo Istiqomah 1 Tahun Qara'a PRO,46,2,540000
+1571459,GRISELDA ZAHWA JANITRA,10-Hibernating,Qaraa PRO 1 Tahun,56,2,600000
+1562714,Abdulah teladan,10-Hibernating,Qaraa PRO 1 Tahun,65,4,450000
+1503705,Sudiati Nardi,10-Hibernating,Qaraa PRO 1 Bulan,141,6,300000
+1501449,Saiful Rahman Thaha,10-Hibernating,Promo Istiqomah 6 Bulan Qara'a PRO,54,2,440000
+1496448,Arif Yulianto,10-Hibernating,Paket 1 Tahun Flash Sale Akhir Bulan,154,6,1755000
+808646,FAYKAL,10-Hibernating,1 Tahun Qara'a PRO Flash Sale Mei,36,2,510000
+808646,FAYKAL,10-Hibernating,Promo Istiqomah 1 Tahun Qara'a PRO,36,2,510000
+1581047,Abdul Hamid,10-Hibernating,Qaraa PRO 1 Bulan,22,2,100000
+1580768,Faradina Salsabil,10-Hibernating,Qaraa PRO 1 Tahun,18,2,600000
+1429921,Fadhil Mahdi,10-Hibernating,1 Tahun,5,2,250000
+1429921,Fadhil Mahdi,10-Hibernating,Qaraa PRO 1 Bulan,5,2,250000
+1580432,Novi Tampubolon,10-Hibernating,Qaraa PRO 1 Tahun,27,2,600000
+1443016,Satri Darwis,10-Hibernating,Qaraa PRO 1 Tahun,34,2,600000
+1450450,harmin alimin,10-Hibernating,Qaraa PRO 1 Bulan,49,2,100000
+1466721,Risky Deni,10-Hibernating,Qaraa PRO 1 Bulan,158,5,250000
+1470311,Aldi Herlambang Samidan,10-Hibernating,Qaraa PRO 1 Bulan,17,2,100000
+1481826,Swaritz,10-Hibernating,Qaraa PRO 1 Bulan,53,2,100000
+1577292,Kalila Lucia,10-Hibernating,Qaraa PRO 1 Bulan,50,2,100000
+1496265,Musfirah Firah,10-Hibernating,Qaraa PRO 1 Tahun,147,5,1500000
+1496448,Arif Yulianto,10-Hibernating,Qaraa PRO 1 Tahun,154,6,1755000
+8343,Zimet,10-Hibernating,Qaraa PRO 1 Bulan,138,6,300000
+99405,johan untung,10-Hibernating,Qaraa PRO Family,137,5,545000
