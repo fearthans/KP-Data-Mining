@@ -33,7 +33,7 @@ st.success("✅ Data berhasil dihitung RFM-nya.")
 
 # Tampilkan tabel RFM
 st.subheader("📟 Data RFM")
-st.dataframe(df_rfm.head(15), use_container_width=True)
+st.dataframe(df_rfm.head(51), use_container_width=True)
 
 # Info tambahan
 st.markdown(f"📌 Total pelanggan tersegmentasi: **{df_rfm.shape[0]} pelanggan**")
@@ -60,12 +60,103 @@ with col2:
             mime="text/csv"
         )
 
+# ========================
+# Kamus/Dictionary Segment RFM
+# ========================
+st.markdown("---")
+st.subheader("📚 Kamus Segmentasi RFM")
+
+segment_info = [
+    {
+        "Kode": "01-Champion",
+        "Nama": "Champion",
+        "Kriteria (rule)": "Recency ≤ 30 hari & Frequency ≥ 10",
+        "Profil": "Pelanggan paling aktif & bernilai tinggi; sering transaksi baru-baru ini.",
+        "Strategi Utama": "VIP program, early access, bundling premium, personal thank-you."
+    },
+    {
+        "Kode": "02-Loyal Customers",
+        "Nama": "Loyal Customers",
+        "Kriteria (rule)": "Frequency ≥ 7 (cukup sering), Recency variatif",
+        "Profil": "Sering belanja, cenderung setia; potensi long-term value besar.",
+        "Strategi Utama": "Point/reward, subscription, upsell paket hemat, referral program."
+    },
+    {
+        "Kode": "03-Potential Loyalists",
+        "Nama": "Potential Loyalists",
+        "Kriteria (rule)": "Recency ≤ 60 hari & Frequency ≥ 3",
+        "Profil": "Mulai rutin; berpotensi naik ke loyal/champion.",
+        "Strategi Utama": "Dorong repeat: voucher repeat, free ongkir, edukasi produk, WA reminder."
+    },
+    {
+        "Kode": "04-Can't Lose Them",
+        "Nama": "Can't Lose Them",
+        "Kriteria (rule)": "Recency > 90 hari & Frequency ≥ 8",
+        "Profil": "Dulu sering belanja, kini lama tidak aktif; bernilai tinggi di masa lalu.",
+        "Strategi Utama": "Win-back kuat: diskon comeback, paket nostalgia, follow-up personal."
+    },
+    {
+        "Kode": "05-Need Attention",
+        "Nama": "Need Attention",
+        "Kriteria (rule)": "Recency > 60 hari & Frequency ≤ 3",
+        "Profil": "Kurang aktif & belum sering belanja; mudah hilang.",
+        "Strategi Utama": "Konten edukasi + promo ringan, survei hambatan, test produk/sample."
+    },
+    {
+        "Kode": "06-New Customers",
+        "Nama": "New Customers",
+        "Kriteria (rule)": "Recency ≤ 30 hari & Frequency = 1",
+        "Profil": "Baru pertama kali belanja, butuh pengalaman awal yang bagus.",
+        "Strategi Utama": "Welcome flow, cross-sell aman, after-sales care, small freebie."
+    },
+    {
+        "Kode": "07-Promising",
+        "Nama": "Promising",
+        "Kriteria (rule)": "Recency ≤ 90 hari & Frequency = 1",
+        "Profil": "Pernah belanja cukup baru, peluang diaktifkan kembali cepat.",
+        "Strategi Utama": "Nurturing: katalog best-seller, social proof, promo bundling."
+    },
+    {
+        "Kode": "08-At Risk",
+        "Nama": "At Risk",
+        "Kriteria (rule)": "Recency > 90 hari & Frequency ≤ 4",
+        "Profil": "Lama tidak bertransaksi, nilai kemungkinan turun.",
+        "Strategi Utama": "Win-back spesifik: rekomendasi produk relevan + limited-time offer."
+    },
+    {
+        "Kode": "09-About to Sleep",
+        "Nama": "About to Sleep",
+        "Kriteria (rule)": "Recency > 60 hari & Frequency ≤ 2",
+        "Profil": "Hampir tidur; engagement rendah.",
+        "Strategi Utama": "Reminder ringan, konten manfaat, promo low-risk untuk reaktivasi."
+    },
+    {
+        "Kode": "10-Hibernating",
+        "Nama": "Hibernating",
+        "Kriteria (rule)": "Di luar kriteria lain; sangat jarang & lama tidak aktif",
+        "Profil": "Dormant; perlu trigger kuat jika mau dihidupkan.",
+        "Strategi Utama": "Kampanye reaktivasi berkala; jika tidak efektif, exclude dari push berat."
+    }
+]
+
+segment_dict_df = pd.DataFrame(segment_info)
+st.dataframe(segment_dict_df, use_container_width=True)
+
+# Download kamus segmen
+segment_dict_df.to_csv("assets/rfm_segment_dictionary.csv", index=False)
+with open("assets/rfm_segment_dictionary.csv", "rb") as f:
+    st.download_button(
+        "📥 Download Kamus Segment RFM",
+        f,
+        file_name="rfm_segment_dictionary.csv",
+        mime="text/csv"
+    )
 
 
 st.markdown("---")
 st.subheader("📈 Analisis RFM Lebih Lanjut")
 
-# Rename dulu agar mudah dipahami
+# Rename 
 df_rfm_analisis = df_rfm.copy()
 df_rfm_analisis.rename(columns={
     'Recency': 'day_since_last_order',
@@ -73,8 +164,6 @@ df_rfm_analisis.rename(columns={
     'Total_Transaksi': 'total_order_value'
 }, inplace=True)
 
-# (Opsional) Tambah fitur PCT unik produk kalau kamu punya
-# df_rfm_analisis['pct_unique'] = ...
 
 # Binning Segmentasi RFM sederhana
 def assign_segment(row):
@@ -136,7 +225,7 @@ df_rfm_analisis.rename(columns={
     'Total_Transaksi': 'total_order_value'
 }, inplace=True)
 
-# Tambahkan 'pct_unique' dummy jika belum ada
+# Tambahkan 'pct_unique' 
 if 'pct_unique' not in df_rfm_analisis.columns:
     np.random.seed(42)
     df_rfm_analisis['pct_unique'] = np.random.uniform(1, 30, size=len(df_rfm_analisis)).round(1)
@@ -196,6 +285,74 @@ segment_table.to_csv("assets/rfm_segment_summary.csv", index=False)
 with open("assets/rfm_segment_summary.csv", "rb") as f:
     st.download_button("📥 Download RFM Segment Table", f, file_name="rfm_segment_summary.csv", mime="text/csv")
 
+
+# ========================
+# 📊 Distribusi Segmen Pelanggan
+# ========================
+st.markdown("---")
+st.subheader("📊 Distribusi Segmen Pelanggan")
+
+# Hitung distribusi (jumlah & persentase)
+distrib_df = (
+    df_rfm_analisis['segment']
+    .value_counts()
+    .rename_axis('Segment')
+    .reset_index(name='Customer_Count')
+    .sort_values('Customer_Count', ascending=False)
+    .reset_index(drop=True)
+)
+
+total_cust = distrib_df['Customer_Count'].sum()
+distrib_df['Percent'] = (distrib_df['Customer_Count'] / total_cust * 100).round(2)
+distrib_df['Percent_Label'] = distrib_df['Percent'].astype(str) + '%'
+
+# Tambahkan total sebagai baris terakhir
+total_row = pd.DataFrame({
+    "Segment": ["TOTAL"],
+    "Customer_Count": [total_cust],
+    "Percent": [100.0],
+    "Percent_Label": ["100%"]
+})
+distrib_df_total = pd.concat([distrib_df, total_row], ignore_index=True)
+
+# Tabel distribusi
+st.dataframe(
+    distrib_df_total.style.format({
+        'Customer_Count': '{:,}',
+        'Percent': '{:.2f}'
+    }),
+    use_container_width=True
+)
+
+# Bar chart distribusi (tanpa bar "TOTAL")
+fig_bar = px.bar(
+    distrib_df,
+    x='Segment',
+    y='Customer_Count',
+    text='Percent_Label',
+    title='Distribusi Pelanggan per Segment',
+)
+fig_bar.update_traces(textposition='outside')
+fig_bar.update_layout(
+    xaxis_title='Segment',
+    yaxis_title='Jumlah Pelanggan',
+    xaxis_tickangle=-30,
+    margin=dict(t=60, l=30, r=30, b=30)
+)
+st.plotly_chart(fig_bar, use_container_width=True)
+
+# Download CSV distribusi (termasuk total)
+distrib_df_total.to_csv("assets/rfm_segment_distribution.csv", index=False)
+with open("assets/rfm_segment_distribution.csv", "rb") as f:
+    st.download_button(
+        "📥 Download Distribusi Segmen (CSV)",
+        f,
+        file_name="rfm_segment_distribution.csv",
+        mime="text/csv"
+    )
+
+
+
 # ========================
 # Visualisasi Treemap 📦
 # ========================
@@ -231,3 +388,4 @@ fig = px.treemap(
 fig.update_traces(textinfo="label+value+percent entry")
 fig.update_layout(margin=dict(t=50, l=25, r=25, b=25))
 st.plotly_chart(fig, use_container_width=True)
+

@@ -1,0 +1,11 @@
+Kode,Nama,Kriteria (rule),Profil,Strategi Utama
+01-Champion,Champion,Recency ≤ 30 hari & Frequency ≥ 10,Pelanggan paling aktif & bernilai tinggi; sering transaksi baru-baru ini.,"VIP program, early access, bundling premium, personal thank-you."
+02-Loyal Customers,Loyal Customers,"Frequency ≥ 7 (cukup sering), Recency variatif","Sering belanja, cenderung setia; potensi long-term value besar.","Point/reward, subscription, upsell paket hemat, referral program."
+03-Potential Loyalists,Potential Loyalists,Recency ≤ 60 hari & Frequency ≥ 3,Mulai rutin; berpotensi naik ke loyal/champion.,"Dorong repeat: voucher repeat, free ongkir, edukasi produk, WA reminder."
+04-Can't Lose Them,Can't Lose Them,Recency > 90 hari & Frequency ≥ 8,"Dulu sering belanja, kini lama tidak aktif; bernilai tinggi di masa lalu.","Win-back kuat: diskon comeback, paket nostalgia, follow-up personal."
+05-Need Attention,Need Attention,Recency > 60 hari & Frequency ≤ 3,Kurang aktif & belum sering belanja; mudah hilang.,"Konten edukasi + promo ringan, survei hambatan, test produk/sample."
+06-New Customers,New Customers,Recency ≤ 30 hari & Frequency = 1,"Baru pertama kali belanja, butuh pengalaman awal yang bagus.","Welcome flow, cross-sell aman, after-sales care, small freebie."
+07-Promising,Promising,Recency ≤ 90 hari & Frequency = 1,"Pernah belanja cukup baru, peluang diaktifkan kembali cepat.","Nurturing: katalog best-seller, social proof, promo bundling."
+08-At Risk,At Risk,Recency > 90 hari & Frequency ≤ 4,"Lama tidak bertransaksi, nilai kemungkinan turun.",Win-back spesifik: rekomendasi produk relevan + limited-time offer.
+09-About to Sleep,About to Sleep,Recency > 60 hari & Frequency ≤ 2,Hampir tidur; engagement rendah.,"Reminder ringan, konten manfaat, promo low-risk untuk reaktivasi."
+10-Hibernating,Hibernating,Di luar kriteria lain; sangat jarang & lama tidak aktif,Dormant; perlu trigger kuat jika mau dihidupkan.,"Kampanye reaktivasi berkala; jika tidak efektif, exclude dari push berat."

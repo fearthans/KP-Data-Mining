@@ -1,0 +1,109 @@
+Customer_id,Customer_name,Frequency,Total_Transaksi,Recency(Hari)
+1004671,Windra Hermawan,1,300000,83
+1039906,Heliani Kristina,1,50000,83
+106272,Trubus Galih Kuncoro,1,40000,89
+1130869,Rachma wati,1,40000,85
+1185063,Naylaa,1,300000,61
+121091,Rita Oktaviana,1,240000,87
+1277957,Yeni Nurhidayanti,1,240000,86
+1321151,Muhammad Subhi,1,240000,86
+1389699,Trias Nur Rahman,1,50000,71
+1394159,Hajon Mahdy Mahmudin,1,300000,75
+1417314,Herman,1,300000,90
+1417996,irfan akbar,1,50000,83
+1432217,Halfa SM,1,50000,70
+1438775,yuliati indah purnamaningrum,1,50000,90
+1440429,Nadia Putri,1,50000,73
+1440562,melodi,1,50000,79
+1445160,Novita Lestari,1,50000,74
+1447001,Ika Agustianti,1,50000,78
+1451297,Fatkhurokhim Yasir,1,300000,81
+1451771,Sudrajat Harris Abdulloh,1,240000,90
+1452067,sri purwati,1,300000,70
+1456612,Dinar Hadiswara,1,270000,69
+1470519,Wanda Ashilah,1,300000,78
+1470619,Danindra Chisaranto,1,50000,63
+1483239,Andi Purnomo,1,200000,62
+1483817,Sayap Kebaikan,1,50000,75
+1493403,fadillah adam,1,300000,65
+15,Ahmad Kamel,1,200000,65
+1503871,Iswatun khasanah,1,40000,85
+1506397,Aisyah Hwang,1,300000,69
+1508225,baiq ratna utami pratiwi,1,300000,65
+1508922,Wahyu Ardiantoro,1,300000,83
+1515499,heri waluyo,1,300000,90
+1526258,Meirda Maris Nur Rohmah,1,50000,90
+1532165,Optimus Prime,1,300000,84
+1542628,Childan  Nabila,1,50000,80
+1549139,MEILA NURISTA SARI,1,240000,63
+1555137,Irfan Lubis,1,50000,80
+1555278,red macaronn,1,300000,86
+1556069,Nurul Naura Nadhira,1,240000,86
+1560085,Kerjaan Selly Novira,1,50000,73
+1560860,Agung ariyanto,1,50000,87
+1562151,Ghozi dan Ghaziyah,1,50000,81
+1563906,Ivan Dhzokhar,1,300000,65
+1564512,tanyami,1,40000,87
+1565962,heni marheni,1,50000,89
+1566821,sakura 10,1,300000,62
+1567059,Niken Larasati,1,240000,90
+1567359,Dwityo Prabowo,1,300000,83
+1569201,Dewi Kartika,1,300000,84
+1569382,and21ts,1,240000,86
+1569701,Deden,1,50000,89
+1569747,yhns fbry,1,50000,77
+1569750,Ryoo Txs,1,50000,89
+1569868,Aliffiani Widyansyah,1,300000,87
+1569982,Fahma Febriana,1,50000,82
+1570050,Ahmad Syukur Almuhni,1,50000,84
+1570067,ZAINAL ABIDIN,1,240000,87
+1570214,najwa ica,1,300000,85
+1570267,Salsabila Balqis,1,50000,86
+1570411,Ani 73lZahramaulida,1,300000,85
+1570428,ceny,1,300000,85
+1570604,Arie Noegraha,1,300000,83
+1570636,Dicky Efendi,1,50000,83
+1570864,Tasya Aprilia,1,50000,82
+1570952,Mara Siregar,1,270000,81
+1571206,Rara,1,300000,80
+1571692,Ahmad Ainul,1,50000,77
+1571785,yaumil tasnima,1,50000,76
+1571925,Haidar Januar,1,50000,76
+1572194,Riza Dharmawan,1,300000,75
+1572520,Lidbahaweres,1,300000,74
+1572594,Syska Febriani,1,300000,74
+1572863,Yuli Tri Amanda,1,50000,74
+1572899,E. Barack,1,50000,74
+1573138,Lisa Amalia,1,50000,73
+1573246,Yul Rachmawati,1,50000,73
+1573298,mayang,1,300000,73
+1573411,Melly Andicha,1,50000,73
+1573432,mira maulidina,1,50000,64
+1573753,JIHAN Ayu dewantari,1,50000,71
+1573853,Rini Afriyani,1,300000,71
+1573968,Rani Tiarasti,1,50000,70
+1574100,namira ks,1,300000,70
+1574350,Gruda,1,50000,68
+1574355,Ain Tiara,1,50000,62
+1574378,Nova Istiqomah,1,270000,68
+1574431,Qiana tahir,1,50000,68
+1574453,Deddy Kusuma,1,300000,67
+1574605,Nadin Novita sari,1,50000,67
+1574664,Nabila adhwa azzahra,1,50000,67
+1574670,fikah,1,50000,66
+1574736,nurvita indarini,1,240000,63
+1574962,Purnama Sari,1,300000,65
+1575210,Indriana Sl,1,50000,63
+1575554,Alya,1,300000,61
+186,Nur Islamiyati,1,50000,66
+250877,Aang Zaelani,1,50000,67
+266469,Furqan Ahmad,1,270000,67
+27172,Rafita Ayuningtyas,1,50000,62
+36317,Sugi Yanto,1,649000,87
+51045,Muhammad Hisyam Zakariya,1,50000,66
+644830,ermy syukur,1,240000,62
+683937,herlina octavia,1,300000,66
+763409,Fari Yadi,1,300000,71
+778931,slavic one,1,300000,65
+844494,Amel Krisandaresta,1,100000,75
+856009,Sahriza Nasution,1,300000,68
