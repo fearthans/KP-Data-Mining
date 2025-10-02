@@ -128,7 +128,7 @@ st.dataframe(
     use_container_width=True
 )
 
-# =====================
+# ======================
 # Insight & Rekomendasi by Segment
 # =====================
 st.markdown("---")
