@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from model import bersihkan_data
+from Model import bersihkan_data
 import os
 
 # Konfigurasi halaman
